@@ -1,0 +1,170 @@
+.diving{
+    text-align: center;
+}
+
+.descdiv{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.div{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 25px;
+}
+.surf{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.descs{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.surfing{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.bike{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.descbik{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.bici{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.climbing{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.desccli{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.climb{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.golf{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.descg{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.golf1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.fishing{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.descfi{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.fishing1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.trekking{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.desct{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.trek{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.horse{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.desch{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.cavallo{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.motocross{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.descmo{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.moto{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}

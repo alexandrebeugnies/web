@@ -1,0 +1,269 @@
+.art{
+    text-align: center;
+}
+.weaving{
+    text-align: center;
+    margin-top: 30px;
+}
+.descw{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.ceramic{
+    text-align: center;
+}
+.descceramic{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.knif{
+    text-align: center;
+    
+}
+.desck{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.basket{
+    text-align: center;
+}
+.descbasket{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+
+.tissage{
+   position: relative;
+   max-width: 500px;
+   max-height: 700px;
+   margin-top: -200px;
+   margin-left: 50px;
+   margin-bottom: 50px;
+}
+
+.ceramic1{
+    position: relative;
+    max-width: 400px;
+    max-height: 300px;
+    margin-top: -300px;
+    margin-bottom: 150px;
+    margin-left: 150px;
+}
+.ceramic2{
+    position: relative;
+    max-width: 500px;
+    max-height: 300px;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+.knif1{
+    position: relative;
+    max-width: 500px;
+    max-height: 300px;
+    margin-bottom: 40px;
+    margin-top: -250px;
+}
+.knif2{
+    position: relative;
+    max-width: 500px;
+    max-height: 200px;
+    margin-left: 700px;
+    margin-top: -130px;
+}
+.panier{
+    position: relative;
+   max-width: 500px;
+   max-height: 400px;
+   margin-top: -300px;
+}
+.tzipula{
+    position: relative;
+   max-width: 500px;
+   max-height: 400px;
+   margin-left: 650px;
+
+}
+.pardula{
+    position: relative;
+   max-width: 500px;
+   max-height: 400px;
+   margin-left: 600px;
+  
+}
+.desserts{
+    text-align: center;
+    
+}
+.descd{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.cheese{
+    text-align:center;
+    margin-top: 50px;
+}
+.descc{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.casigiolu{
+    position: relative;
+   max-width: 500px;
+   max-height: 400px;
+   margin-left: 550px;
+}
+.bread{
+    text-align: center;
+}
+.descb{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.coccoi{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 650px;
+}
+.malvasia{
+    text-align: center;
+    margin-top: 50px;
+}
+.descm{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.malvasia1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 650px;
+}
+.vernaccia{
+    text-align: center;
+    margin-top: 50px;
+}
+.descv{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.vernaccia1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 700px;
+}
+.wine{
+    text-align: center;
+    margin-top: 50px;
+}
+.descwi{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.wine1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.pate{
+    text-align: center;
+    margin-top: 50px;
+}
+.descp{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.culurgiones{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 700px;
+}
+.fregula{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 550px;
+}
+.fish{
+    text-align: center;
+    margin-top: 50px;
+}
+.descf{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.bottarga{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}
+.meat{
+    text-align: center;
+    margin-top: 50px;
+}
+.descme{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    margin-top: 50px;
+    border: dotted;
+}
+.meat1{
+    position: relative;
+    max-width: 500px;
+    max-height: 400px;
+    margin-left: 600px;
+}

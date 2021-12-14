@@ -1,0 +1,13 @@
+.containerSlide{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: 350px;
+    margin-right: auto;
+    margin-top: -550px;
+}
+
+.containerSlide img{
+    height: 50px;
+  
+}
