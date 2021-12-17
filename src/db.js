@@ -60,6 +60,7 @@ app.get('/adduser1', (req,res)=>{
 });
 
 app.get('/adduser2', (req,res)=>{
+    //req.query.pseudo
     let user = {pseudo :'toto', mdp :'69325',coordonnee: '1 avenue de la blague', voyages: 'Ogliastra', infouser : '+5698745620'};
     let sql = 'INSERT INTO utilisateur SET ?';
     let query = db.query(sql, user,(err,result)=> {
@@ -112,6 +113,6 @@ app.get('/deleteutilisateur/:userid', (req,res)=>{
     });
 });
 
-app.listen('5000', () =>{
-    console.log('Server started on port 5000');
+app.listen('3000', () =>{
+    console.log('Server started on port 3000');
 });
