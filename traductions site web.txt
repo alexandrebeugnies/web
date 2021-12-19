@@ -1,0 +1,2546 @@
+-------- fr ------------------
+---Home------
+<h1>Su Viaggiu Sardu</h1>
+<h2>Oristano</h2>
+
+<p>Bonjour et bienvenue sur notre site Su Viaggiu Sardu.
+Nous sommes une agence de voyage et avons créé ce site afin de promouvoir
+le tourisme gourmand dans les provinces d'Oristano, d'Ogliastra et Nuoro.
+Vous trouverez ici différents circuits, des événements, les restaurants et bien d'autres choses.</p>
+
+
+
+<div class="form" style=" width: 600px; padding-top:10px; padding-bottom:10px;border: 3px solid #A0A0A0; text-align:center;background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);;">Inscrivez-vous à notre liste de diffusion <br />
+		   Ne manquez aucune actualité <br />
+		   <form action="" method="get" class="form-example">
+				<div class="form-example">
+					<label for="name">Entrez votre nom: </label>
+					<input type="text" name="name" id="name" required>
+				</div><br />
+				
+				<div class="form-example">
+					<label for="email">Entrez votre email: </label>
+					<input type="email" name="email" id="email" required>
+				</div><br />
+					
+				<div class="form-example">
+					<input type="submit" value="S'abonner Maintenant">
+				</div><br />
+			</form>
+		</div>
+
+---visites----
+
+<h1>Itinéraire gourmand dans la province d’Ogliastra</h1>
+Une route gourmande de plus ou moins 422 kilomètres mariant les visites de producteurs locaux et le
+tourisme culturel et historique.
+Cette province est la moins peuplée de toute l’Italie. La nature y est, dès lors, très préservée.
+Celle-ci nous offre des paysages riches et variées.
+L’itinéraire nous permettra de goûter une cuisine familiale ainsi que quelques bons vins produits dans
+la province d’Ogliastra.
+A goûter
+- Cuisine familiale au Restaurant Mamulada à Seui
+- Vins chez le caviste Jerzu Antichi Poderi
+A visiter
+- Grotte de Is Janas (Grotte des fées) à Sadali
+- Parco Archeologico e Naturalistico del Bosco Seleni
+Organisateur
+Monsieur Beugnies Alexandre
+Collaborateurs (potentiels)
+- Bosa Tours
+- Le Mistral Due à Oristano
+- Monsieur Zucca, réceptionniste au Mistral Due.
+
+Itinéraire :
+8.00 : Départ de l’hôtel « Mistral Due » situé à Oristano
+10.00 : Arrivée aux Grottes de Is Janas. La visite guidée du lieu dure environ 2 heures.
+12.30 : Arrivée au Ristorante Mamulada.
+14.00 : Départ du restaurant en direction du Bosco Seleni.
+Un minimum de 2 heures est requis pour la visite du parc archéologique.
+17.30 : Départ du parc en direction de Jerzu Poderi, Caviste renommé.
+18.00 : Visite guidée et dégustation de vins
+19.30 : Retour au Mistral Due et arrivée prévue entre 21.00 et 21.30
+
+<h1>Itinéraire gourmand dans la province de Nuoro (A)</h1>
+Cet itinéraire en car vous conduit de la province d’Oristano à la province de Nuoro, région alternant
+massifs montagneux et vallées.
+Cette province, comme toutes les régions sardes, a gardé ses propres spécialités, inspirées des
+traditions culinaires. Les traditions paysannes y restent bien vivantes.
+A goûter et à réaliser soi-même
+- Sardinian Taste Lab à Atzara
+
+A visiter
+- Fordongianus :
+o Thermes romains
+o Maison aragonaise
+o Amphithéâtre romain
+
+Organisateur
+Monsieur Beugnies Alexandre
+Collaborateurs (potentiels)
+- Bosa Tours
+- Le Mistral Due à Oristano
+- Monsieur Zucca, réceptionniste au Mistral Due.
+Itinéraire :
+9.00 : Départ de l’hôtel « Mistral Due » situé à Oristano.
+10.00 : Arrivée aux thermes et amphithéâtre romains de Fordongianus. La visite du lieu nécessite
+environ 2 heures.
+12.00/12.30 : Départ des thermes en direction du Sardinian Taste Lab
+13.00/13.30 : Arrivée au « Laboratoire du goût » les différentes expériences et dégustations durent 5
+heures environ
+18.00/18.30 : Retour au Mistral Due à Oristano
+19.30/20.30 : Arrivée à l’hôtel
+
+<h1>Itinéraire gourmand dans la province de Nuoro (B)</h1>
+Ce second itinéraire dans la province de Nuoro permettra aux touristes d’aller à la rencontre des
+agriculteurs locaux et à la découverte d’autres richesses, culturelles ou historiques, de cette région.
+A goûter
+- Agriturismo Costiolu à Barbagia di Ollolai
+
+A visiter
+- Parco archeologico Biru e' Concas à Sorgono
+- Fresques Murales de Tinnura
+
+Organisateur
+Monsieur Beugnies Alexandre
+Collaborateurs (potentiels)
+- Bosa Tours
+- Le Mistral Due à Oristano
+- Monsieur Zucca, réceptionniste au Mistral Due
+
+Itinéraire :
+9.00 : Départ de l’hôtel « Mistral Due » situé à Oristano
+10.00 : Arrivée au parc archéologique Biru e‘ Concas à Sorgono. Deux heures sont nécessaires pour
+apprécier la visite du site
+12.00/12.30 : Départ du parc en direction de l’Agriturismo Costiolu située à Ollolai. Une bonne heure
+de route est nécessaire pour rejoindre le lieu où les touristes pourront apprécier la cuisine et le
+savoir-faire sarde.
+17.00 : Départ de de l’Agriturismo Costiolu en direction de Tinnura pour y admirer les fresques
+murales.
+18.00/18.30 : Retour à l’hôtel
+19.00/19.30 : Arrivée au Mistral Due à Oristano
+
+<h1>Itinéraire gourmand dans la province d’Oristano</h1>
+Cet itinéraire débute par une promenade pédestre qui conduit les touristes de l’hôtel Mistral Due au
+centre historique d’Oristano, lieu chargé d’histoire qui vit naître la grande Eleonora d’Arborea qui, tout
+comme Jeanne d’Arc, guerroya contre des envahisseurs qui étaient espagnols.
+Le reste de l’excursion, en autocar, permettra aux touristes, de faire connaissance avec une province
+où l’eau joue un rôle important (fleuves, lacs et étangs).
+
+A goûter (et à visiter)
+- Fromages sardes chez CAO Formaggi
+- Ittiturismo Sa Pischera ‘e Mar ’e Pontis à Cabras
+- Ferme Pédagogique à Tramatza
+A visiter
+- Parco Paleontologico Dinosardo
+- IS Arutas (plage)
+- Site Archéologique de Tharros
+Organisateur
+Monsieur Beugnies Alexandre
+Collaborateurs (potentiels)
+- Bosa Tours
+- Le Mistral Due à Oristano
+- Monsieur Zucca, réceptionniste au Mistral Due.
+
+Itinéraire :
+9.00 : Départ de l’hôtel Mistral situé à Oristano. Cette visite se fait à pied, le centre historique se
+trouvant non loin de l’hôtel.
+9.15 : Arrivée au centre historique d’Oristano. La visite du lieu dure environ une heure. Le car y
+attendra les touristes
+10.30 : Le car quitte le centre historique en direction du parc paléontologique Dinosardo
+11.00 : Arrivée au parc. Les touristes ont besoin d’une heure trente environ pour apprécier les
+richesses historiques du lieu.
+12.30 : Arrivée au CAO Formaggi où les touristes pourront déguster et/ou acheter divers fromages
+sardes.
+13.30 : Départ de la coopérative en direction de Ittiturismo sa Pischera e’ Mar ‘e Pontis situé à environ
+15 minutes en car de CAO Formaggi.
+14.00 : Visite de la ferme piscicole et possibilité de restauration pour les touristes qui le souhaitent
+16.00 : Départ en direction de la plage Is Arutas, située dans le golfe d’Oristano.
+17.00 : Les touristes quitte la plage pour se rendre en car à la ferme pédagogique située à Tramatza.
+18.00 : Départ de la ferme en direction du site archéologique de Tharros.
+18.30/18.45 : Arrivée sur le site de Tharros et visite du lieu. Possibilité de rester jusqu’à la fermeture
+prévue à 20.00.
+20.00 : Retour vers le Mistral Due.
+20.30/21.00 : Arrivée à l’hôtel à Oristano.
+
+--- Activités Sportives-----
+
+<h1>Plongée</h1>
+
+<p>Plongée sous-marine : Les sorties de plongée sur des sites merveilleux, près de la côte ou en pleine mer, vous feront découvrir le milieu sous-marin multicolore, riche d'épaves d'époques variées.
+photo plongée</p>
+
+<h1>Surf / planche à voile / kitesurf</h1>
+
+<p>Le spot de Capo Mannu a été appelé «les Hawaii de la Méditerranée".
+Situé à quelques kilomètres de l'Hôtel la Baja et du Camping Nurapolis, il offre la possibilité de pratiquer ces trois types de sports nautiques pour jouer avec le vent et les vagues.
+photo surf</p>
+
+<h1>Vélos</h1>
+
+<p>De nombreux parcours et sentiers qui serpentent en rasant littéralement la côte ou en s'enfonçant dans les magnifiques paysages de montagne.
+Biciclette</p>
+
+<h1>Escalade</h1>
+
+<p>La province d'Oristano est connue des amateurs d'escalade pour sa variété de types de murs à pratiquer.
+Non loin de l'hôtel et du camping, à proximité des fouilles archéologiques de Cornus du VIe siècle avant JC, il existe plusieurs voies d'escalade.
+Voici ce que Maurizio Oviglia, l'un des plus grands experts de l'escalade en Sardaigne, écrit sur le site de Planet Mountain: "La région de Santa Caterina di Pittinuri est déjà connue pour la beauté des plages, elle l'est moins à cause des petites falaises de basalte , caché dans les plis de Monti Ferru.
+Ce ne sont pas, comme je l'ai dit, de grandes falaises évidentes, mais de petites crêtes cachées dans les ravins, offrant une montée intensive qui atteint rarement 20 à 25 mètres.
+Il est donc logique que les grimpeurs locaux associent souvent l'escalade au bloc.
+En effet, les deux falaises que nous vous proposons ont chacune, en plus de la falaise, leur zone d'escalade. "Actuellement, 49 itinéraires sont disponibles dans deux secteurs avec une grande majorité de notes entre 5 et 6.
+escalade de photos</p>
+
+<h1>Golf</h1>
+
+<p>Un golf 18 trous (par 72) est à quelques kilomètres de l'hôtel et du camping.
+Le parcours a été conçu par les architectes américains renommés Von Hagge, Smelek et Baril, qui ont introduit les 18 trous dans les dunes naturelles qui caractérisent la zone, créant l'un des parcours les plus spectaculaires d'Europe, tant du point de vue technique que d'un paysage point de vue.
+photo golf</p>
+
+<h1>Pêche</h1>
+
+<p>Dans cette partie de la province d'Oristano, il est possible de pêcher dans toutes ses variantes grâce à la présence du patrimoine marin et des coopératives de pêche.
+Sur la longue plage d'Is Arenas, pratiquement la plage du Camping Nurapolis, nous pratiquons le surf casting et la plage organise souvent des compétitions régionales et nationales.
+Diverses entreprises du secteur offrent la possibilité de pêcher en mer, une expérience passionnante.
+À bord des bateaux de pêche locaux, participez à leur pêche traditionnelle et en passant devant de magnifiques baies et îlots, vous pourrez déguster des plats locaux à base de poisson frais.
+pêche</p>
+
+<h1>Trekking</h1>
+
+<p>Si vous aimez la randonnée ou la marche nordique, vous êtes au bon endroit.
+Entre mer et montagne, des dizaines de sentiers et sentiers vous feront découvrir les plus beaux coins de notre territoire.
+Sentiers sinueux le long de la mer vers des plages et des criques qui sont autrement difficiles d'accès.
+Des sentiers, généralement faits par des animaux, vous mènent à 1050 mètres d'altitude, où vous pourrez admirer des paysages à couper le souffle après avoir traversé d'épaisses forêts anciennes où il n'est pas rare de rencontrer des mouflons d'Amérique et des sangliers.
+photo Trekking</p>
+
+<h1>Équitation</h1>
+
+<p>La province d'Oristano a une longue tradition d'élevage de chevaux, d'où l'abondance de manèges qui organisent des promenades, des foires d'éleveurs, et surtout des fêtes et des courses où les cavaliers peuvent montrer leur fierté et leur courage.
+Faire de l'équitation le long des étangs où vivent les flamants roses est une expérience unique.
+photo Equestre</p>
+
+<h1>Motocross</h1>
+
+<p>Une piste de motocross est située à deux pas de l'hôtel et du camping dans les dunes de l'ancien désert d'Is Arenas, qui était le plus grand désert de sable d'Europe jusqu'au milieu des années 50.
+Le parcours est unique, technique et passionnant et le climat est idéal en toutes saisons. Même en période pluvieuse, le fond sablonneux assure un excellent drainage.
+De nombreuses équipes, un national et international,fréquentent cette piste qu'elles trouvent exceptionnelle</p>
+
+---Events---
+
+SANTU ANTONI DE SU FOGU / SAINT ANTHONY L’ABBE
+Cette fête se célèbre entre le 16 et le 17 janvier. Elle est d’origine préchrétienne et inclut
+toutes les fonctions religieuses ainsi que l’allumage et la bénédiction du feu de joie.
+Il est allumé dans toutes les
+villes de la province, avec des
+caractéristiques différentes en
+fonction du lieu où il est
+allumé. Il peut être grand ou
+petit et on y brûle d’énormes
+tas de troncs d’arbres entiers
+transportés par des câbles sur
+place et on y met le feu.
+Dans beaucoup de villes, cela
+coïncide avec l’ouverture du
+carnaval. Lors de cette
+occasion « sa panischedda » ou « su pani de saba » sont préparés. Ce sont des desserts
+typiques fabriqués à partir de la « sapa » (sirop de raisin sucré).
+
+
+
+CARRASEGARE / CARNAVAL
+Le carnaval de la province d’Oristano est très varié. En effet, les traditions ont survécu et on
+retrouve souvent, dans ces carnavals, de très anciennes traditions telles que les jeux
+équestres, les danses traditionnelles et les masques ancestraux. Bien sûr, on peut retrouver des
+plats culinaires et des desserts exclusifs propres à ces manifestations.
+Bien connu pour sa particularité, Su Carrasegare Osincu à Bosa débute le jeudi gras.
+Les spectateurs participent à ce festival dès le mardi gras. Très tôt le matin, les participants
+(hommes et femmes) revêtent des habits traditionnels et célèbrent le rite de s’Atitidu
+(lamentations funèbres). En soirée ils sont tous vêtus de blanc. Ce carnaval représente
+l’allégorie sexuelle.
+A Ghilarza, l’avant dernier dimanche de carnaval, la célébration d’une ancienne coutume
+réapparait chaque année. Des habitants portant les mascheras à lentzolu (masques
+fabriqués avec des draps blancs) et les burrones (hommes en costume noir traditionnel et
+faces peintes avec du liège brûlé) dansent dans les rues ainsi que dans le centre historique
+de la ville. Sas màscheras zoomorfas antigas(antique rituel masqué) se déroule dans les rues
+de : Neoneli sos Corriolos, à Cuglieri sos Cotzulados, à Ula Tirso sos Urtzos et sos Bardianos, à
+Samugheo sos Mamutzones, à Paulilatino sos Corrajos, à Laconi Su Corongiaiu.
+Les jeux équestres restent une tradition préservée datant de plusieurs siècles. Le plus connu
+est celui d’Oristano, Sa Sartiglia, est une tradition médiévale. Ce jour-là se déroule une
+incroyable cérémonie dirigée par su Cumpinadori (un demi-dieu androgyne) qui contrôle la
+course organisée par la corporation (Gremi) de fermiers et de charpentiers. La course a lieu p
+le mardi gras et le dernier dimanche de carnaval. Lors de cette course, ils doivent récupérer
+des étoiles suspendues le long de la route avec leurs épées.
+A Santulussurgiu, on fête sa Carrela ‘e nanti, une course de chevaux, où les chevaux
+galopent dans les rues étroites et sinueuses du village. A Sedilo, à Paulalitino et dans plusieurs
+autres villes de la province se tient la traditionnelle cursa a sa pudda, où les cavaliers doivent
+récupérer les morceaux d’une poule fabriquée en étoffe et se trouvant sur le chemin.
+Les danses traditionnelles, sont très courantes lors de ces festivités. Elles caractérisent le
+carnaval sarde. Dans plusieurs lieux de la province, elles sont accompagnées par le son d’un
+orgue, d’accordéon ou bien les voix des hommes de cuntratos et cuncordos. In Seneghe, les
+gens dansent sa partza de sos ballos qui se déroule tous les dimanches et qui débute le
+dimanche de San Sebastian. Mardi gras, su Martis de coa, est le jour de sas andantzas .
+
+Le matin, les danseurs habillés en costumes traditionnels dansent sur la place de la ville selon
+une chorégraphie particulière ressemblant à une étoile. Ces jours-là, à Aidomaggiore, the
+cointrotza est dansé. Une longue ligne de danseurs dessine des cercles et des spirales suivant
+Figure 2 Sa Sartiglia Figure 1 Carrasegare Osincu
+
+
+le rythme de la musique jouée par l’accordéon diatonique5, le triangle et su tumbarinu
+(tambour local et traditionnel). A Marrubiu se déroule su Marrulleri, célèbre parade de
+groupes de gens masqués.
+
+CHIDA SANTA / SEMAINE SAINTE
+Dans la province d’Oristano, les rites de la Semaine Sainte représente un moment de
+religiosité profonde. Les cérémonies sont tenues dans toutes les régions. Ces dernières années
+années, le tourisme religieux s’y développe de plus en plus. Le plus frappant sont les rites
+pratiqués à Cuglieri, Santulussurgiu et Scano di Montiferro. Dans presque toute la province,
+lors du dimanche de Pâques, se déroule la procession du palmier artistiquement entrelacé.
+Les confréries sont les protagonistes des rites liturgiques et paraliturgiques parmi lesquels on y
+retrouve, s’Iscravamentu, le dépôt du Christ
+mort sur la croix, et s’Incontru, la rencontre
+avec la résurrection du fils de la Vierge Marie.
+Ces manifestations sont accompagnées par
+le répertoire traditionnel de chants sacrés
+sarde et latin, effectués par quatre voix
+masculines de su cuncordu ou cuntzertu.
+
+5 Accordéon diatonique : accordéon possédant des lames différentes afin de produire un son différent (que ce soit en
+poussant et en tirant le soufflet), différent d’un accordéon chromatique.
+Figure 3 Sos Mamutzones
+
+
+
+ARDIA DE SEDILO / ARDIA DE SEDILO
+En juillet, l’un des plus beaux et célèbres festivals de Sardaigne, nommé Ardia se tient à
+Sedilo. Depuis des siècles, des centaines de cavaliers participent à une course. Le soir du
+6 juillet et le matin du 7 juillet, en l’honneur de Saint Constantine, des cavaliers revêtus de
+l’habit de l’empereur ou de chevalier reproduisent la bataille entre Constantine et Maxentius,
+la bataille de Ponte Milvio (312 AD). La course est menée par un leader, sa prima pandela,
+suivi par deux autres cavaliers, segunda et tertza pandela ainsi que de gardes, qui
+représentent Constantine et son armée et les autres Maxentius et son armée.
+
+REGATA DE IS FASSONIS / REGATE DE IS FASSONIS
+Un dimanche d’été, chaque année, dans la mare de Santa Giusta, située dans le Golf
+d’Oristano se déroule la régate de Is Fassonis, ancien bateau de marais fabriqué avec des
+tiges de roseaux et brins d’herbes. Très similaire au Peruvian balsa, le batelier du Is Fassonis,
+qui doit rester debout, fait avancer sa barque avec une longue rame.
+
+SANTA MARIA DE MARE / SAINTE MARIE DE LA MER
+A Bosa, le premier dimanche d’août, Sainte Marie de la mer est célébrée. Des bateaux de
+pêche décorés festivement longent la rivière Temo (seule rivière navigable en Sardaigne),
+l’un d’entre eux portant la statue de la Vierge de l’église du village côtier de Sainte Marie de
+la mer jusqu’à la cathédrale de la Vierge Immaculée. En août également, à Marceddi,
+village de pêcheurs situé le long de la côte de la ville de Terralba, se tient une procession sur
+la mer avec des bateaux parés de drapeaux, lançant des fleurs. L’un d’entre eux représente
+une épave en mémoire des disparus en mer.
+
+
+
+SARTIGLIEDDA
+A Torregrande, le jour de l’assomption, les villages côtiers de la province d’Oristano, se tient
+en été la Sartigliedda qui reprend toutes les phases de Sa Sartiglia : l’habillement de su
+Cumponidoreddu, la course à l’étoile et les acrobaties à cheval. Les protagonistes sont des
+enfants.
+
+SANTU INNATZIU DE LACONI / SAINT IGNATIUS DE LACONI
+A Laconi est célébré Fra ‘Innàtzu (1701-1781), le saint patron de la province d’Oristano.
+La procession se déroule le 31 août et des milliers de pèlerins y assistent. Plusieurs groupes
+folkloriques et fraternités de différents lieux de l’île s’y retrouvent. On peut y visiter le musée du
+Menhir et le Parc Aymerich, dans lequel, vous aurez l’occasion d’admirer les restes d’un
+
+
+château médiéval. Le parc est une oasis de Verdure de 22 hectares, comportant de
+magnifiques espèces végétales et des chutes d’eau.
+
+IS ISCURTZOS DE SANTU SARBADORI / LES COUREURS PIEDS NUS DE SAINT
+SALVATORE
+Dans les villages ruraux de Cabras et San Salvatore, le premier samedi de septembre, a lieu la
+course pieds nus, un rituel qui se répète tous les ans depuis 5 siècles, remémorant l’invasion
+des Sarazins. Des centaines d’hommes du pays, vêtu d’une robe, courent pieds nus portant
+la statue du Sauveur de Cabras jusqu’à l’église rurale. A leur tour, deux coureurs portent le
+sedan avec la statue du Saint, le long d’un chemin de poussière. Personne ne peut dépasser.
+Tous les cent mètres, ceux qui portent la statue changent de place avec d’autres.
+Le dimanche, la statue retourne
+à Cabras de la même manière.
+Le premier jour de la neuvaine,
+les femmes habillées
+traditionnellement et pieds nus,
+font la même chose mais
+portent une petite statue du
+Saint partant de la campagne
+jusqu’à San Salvatore et
+retournent ensuite à Cabras.
+
+
+NOSTRA SENNORA DE SU RIMEDIU / NOTRE DAME DU REMEDE
+Le huit septembre est célébrée à Donigala Fenughedu, Notre Dame du Remède, fête
+spécialement pour les communautés de la province et de l’île de Sardaigne. Le nombre de
+fidèles qui vont au sanctuaire pour participer à toutes les messes liturgiques. Après les
+célébrations religieuses, beaucoup de pèlerins restent dans la cour de l’église aux places
+spécifiques où ils peuvent manger le cochon de lait rôti, mulet et anguilles, mostaccioli et
+nougat et peuvent boire le vin de Vernaccia.
+NOSTRA SENNORA DE BONACATU / NOTRE DAME DE BONACATU
+Les dix-huit et dix-neuf septembre à Bonarcado est célébrée la fête de Notre Dame de
+Bonacatu. Le temple de Madonna di Bonacatu est l’un des plus anciens de l’île, datant du
+VIème siècle AD. L’église romanesque avoisinant ce temple, quant à elle, date du XIIIème
+siècle et a été construite par Camaldolese. Les registres de ce temple ont été rédigés en
+sarde et représentent la principale source de l’histoire médiévale de la province d’Oristano.
+Dans l’après-midi du dix-huit, plusieurs vénérateurs et des congrégations prennent part à la
+procession chantant Rosary en sarde.
+SAS FESTAS IN SOS NOVENARIOS / LES FESTIVITES RURALES
+A partir d’avril/mai jusqu’en octobre dans toute la Sardaigne, dans plusieurs églises de
+campagne, des fêtes sont tenues. Presque toutes durent entre neuf et dix jours. Tous les
+participants s’installent dans un foyer pour assister à des services religieux, souvent en langue
+sarde, et perpétuant d’anciens rites. Durant ces jours, les petits villages prennent vie grâce à
+des divertissements et des spectacles de diverses sortes, déjeuners en communautés ou
+diners et cumbidos, desserts et boissons offertes aux participants. La neuvaine de Saint
+Seraphim ferme le long calendrier des festivités de campagne dans la province. A partir de
+jeudi avant le troisième dimanche jusqu’au matin du dernier dimanche d’octobre, à
+Ghilarza, près du lac Omodeo, l’Archange Raphael est célébré. L’église médiévale est
+célèbre. On peut y admirer un bas-relief des armoiries de l’arbre déraciné d’Arborea, qui est
+devenu le symbole de la Province d’Oristano.
+
+---Artisanat----
+
+<h1>Tessingiu / Tissage</h1>
+
+<p>À Mogoro et Samugheo, il est possible de visiter de nombreux ateliers de tissage et d’acheter des tapis, des nappes, des rideaux, des couvertures, des draps, des sacoches et bien plus encore.
+Les deux centres investissent beaucoup dans le secteur et organisent chaque année, entre juillet et août, le premier, la foire des tapis, le deuxième, l'exposition d'artisanat sarde - Tessingiu.
+Avec les techniques 'a pibiones' (style grain ou hérisson) et le tissage à plat avec trame visible, des œuvres sont produites qui conservent à la fois des décorations et des motifs traditionnels et offrent des couleurs et des motifs modernes.
+À Samugheo, vous pouvez visiter le musée régional des métiers du tissage sarde (MURATS)
+tapis sarde</p>
+
+<h1>Tzeràmica / Céramique</h1>
+
+<p>Autrefois célèbre pour la production de vases, pichets, plats et autres pots en céramique, Oristano, avec les productions artistiques de ses potiers, continue d'être une "ville de la céramique".
+Aujourd'hui, les artisans transforment des modèles de tradition en œuvres d'art de grande valeur et inventent de nouveaux objets adaptés aux besoins modernes.
+céramique</p>
+
+<h1>Gurteddu / Couteaux</h1>
+
+<p>L'artisanat sarde jouit d'une tradition importante liée à la transformation des couteaux, en particulier des resorzas, très appréciés des touristes et dont l'utilisation est encore répandue en Sardaigne.
+Grâce à la dextérité et au savoir-faire des artisans de Santu Lussurgiu, les métaux et les cornes se transforment en couteaux d'une beauté exceptionnelle, objets élégants forgés en modèles typiques de Santu Lussurgiu.</p>
+
+<h1>Istèrgios de fenu e a intrizu / Paniers</h1>
+
+<p>Cette activité artisanale, principalement au niveau des ménages, se caractérise par différents types dans différentes parties de la province.
+Outre les produits toujours utilisés quotidiennement à la maison et au travail, qui reproduisent des modèles et des décors traditionnels, l’art du tissage de paniers a également permis de produire au cours des dernières années un exemple artistique au goût du jour.
+Avec l’enchevêtrement de roseaux, de saule, de myrte et de mastic, des paniers de différentes tailles sont produits, principalement utilisés pour le transport de fruits et de légumes.
+À Flussio et dans les villages voisins situés au nord de la province, des tiges d’asphodèle sont utilisées pour la fabrication de paniers et d’autres objets.
+Les jours de printemps et d'été, l'exposition du travail devant les maisons des artisans transforme les rues de ces villages en marchés attrayants.
+À San Vero Milis, le tissage des herbes des marais, vous obtenez des œuvres artistiques caractérisées par la présence de rouge ou de noir.</p>
+
+---Nouriture---
+
+Durches / Desserts
+
+Durant l’année, une longue liste de desserts est préparée suivant des anciennes recettes, accompagne les fêtes privées et traditionnelles : sa panischedda à la Saint Anthony, sas pardulas pour pâques ; sos pabassinos pour la fête des morts ; ainsi que différents gâteaux frit pour carnaval, en incluant sas tzipulas sont les plus connus et les plus appréciés.
+Miel, noix, sapa, cottage cheese, œufs, farine (tous les produits locaux) sont les principaux ingrédients de leur préparation.
+Une énorme place est attribuée aux amandes douces ; marigosos, candelaos, guefos, turronetos, germinos et d’autres.
+Particulièrement lié aux importantes occasions tels un baptême, des communions ou bien un mariage.
+Sas Pardulas
+Sas Tzipulas
+Casu / Fromage
+
+Dans un territoire lié (économiquement et culturellement) à l’agriculture, surtout dans l’élevage de brebis et de bétail, le fromage est l’une des plus importantes productions.
+Parmi les plus célèbres, il y a le Fiore Sardo AOP et le Pecorino Sardo AOP, ou bien un fromage plus aromatique et salé ; la ricotta, utilisé dans la préparation de plats tels culurgiones, ravioli, ou encore des desserts.
+Casigiolu de sa forme caractéristique de poire faite de lait de vaches sardes modicaines et bruno sardes, un fromage qui peut être mangé frais ou âgé.
+Un présidium slow food protège la production de Casizolu de Montiferru.
+Casigiolu
+Pane / Pain
+
+En Sardaigne, le pain n’est pas seulement important pour une utilisation quotidienne mais continue à prendre forme et à une signification lors de rituels ou de festivités d’ancienne culture, dans plusieurs villes il n’est pas anodin de sentir le pain cuit au four, le pain diffère en fonction des saisons ou de la consommation des semaines ordinaires ou extraordinaires des vacances.
+Le pain devient un travail artistique, impressionnant de beauté durant les grandes fêtes liturgiques et patronales de saint il est emballé avec une multitude de variantes, différents types de pain lors des cérémonies parmi lesquels sont su cocoi de pramma, préparé pour le dimanche de Palmier : une parcelle de grands brins de pâtes décorées de fleurs de pain ou d’amandes, et su cocoi de angulla et su cocoi cun s’ou, préparé pour pâques, de différentes formes , la plus utilisée est la colombe avec un œuf et sa coquille.
+Su Coccoi
+
+
+
+Malvasia
+
+La province d’Oristano a une longue tradition dont proviennent des vins de haute qualité, robustes et d’une teneur en alcool relativement élevée.
+L’un des plus célèbres et appréciés est le Malvasia de Bosa, un vin blanc, produit dans les villes de Bosa, Flussio, Magomadas, Modolo, Tinnura, Tresnuraghes et Suni.
+Ce vin a un intense arome et une saveur délicate, sec avec un arrière-gout amer.
+Le Malvasia vieilli dans des fûts dans lesquels "flor" levure, est ajouté, il va bien avec des sucreries faites à partir d’amandes, les vins jeunes, jusqu’à l’âge de trois ans peut être consommé comme un apéritif.
+Granatza / Vernaccia
+
+Vernaccia d’Oristano est un vin ambré jaune et au goût d’amandes, qui atteint un degré d’alcool entre quinze et seize degrés et peut être bu frais comme apéritif ou pour accompagner un plat à base de poissons, ou un fromage fumé ou épicé.
+Il est obtenu par un processus naturel d’oxydation par le travail d’une levure particulière, et vieillissant pendant trois ou quatre ans en chêne ou châtaigne pas complètement rempli, on peut obtenir ce produit unique et distinctif.
+Il est excellent comme vin de dessert, particulièrement avec des desserts à base d’amande douce typique de Sardaigne.
+Les vignobles de Vernaccia se trouvent à Baratili San Pietro, Cabras, Milis, San Vero Milis, Narbolia, Nurachi, Ollastra, Oristano, Palmas Arborea, Riola Sardo, Santa Giusta, Siamaggiore, Simaxis, Solarussa, Tramatza, Zeddiani, Zerfaliu.
+Binu / Vin
+
+La production de vin a une grande importance pour le territoire de la province.
+Parmi ceux-ci, une place importante est occupée par les vins A.O.C. d’Arborea : Trebbiano et Sangiovese; Bovale Sardo dans le Campidano de Terralba ;Cannonau, présent dans toute la région, et en particulier le Semidano et Monica, vignes présentes notamment sur le territoire de Mogoro et Marmilla.
+Les vins A.O.C de la province sont également le Malvasia di Bosa, Mandrolisai, Monica di Sardegna, Semidano et Vernaccia di Oristano.
+Les vins IGT sont : île de Nuraghe, Marmilla, Planargia, Tharros.
+
+
+Pasta/ Pâte
+
+Avec la semoule de blé dur sont préparés différents types de pâtes, y compris les malloredos, petites boulettes, typiques de toute la Sardaigne, souvent aromatisées avec le safran, et lorighitas, faites tissage de deux brins de pâtes fermées pour former de petites bagues de forme allongée, typique du village de Morgongiori.
+Dans les recettes les plus traditionnelles, malloredos et lorighitas, sont assaisonnés de sauce tomate avec de la viande ou saucisse et du pecorino râpé.
+Fregula, semblable au couscous mais plus grand, est préparé en mouillant la farine de semoule avec un peu d’eau, et pétrissant dans un mouvement circulaire des mains sur le fond d’un bassin d’argile.
+Avec les petites sphères obtenues des soupes et des plats similaires à risotto, assaisonnés de diverses façons, en particulier avec des palourdes.
+Les culurgiones sont des raviolis farcis au fromage frais ou à la ricotta et des blettes ou aux pommes de terre, assaisonnés de sauce tomate et de viande et beaucoup de pecorino râpé.
+Culurgiones
+Fregula
+Pische / Poissons
+
+Avec les poissons de la mer et des lagons de la province d’Oristano se prépare des recettes raffinées ; loups de mer avec Vernaccia, du homard, burrida ; et des rôtis sont préparés qui donnent une saveur et un arôme aux différentes festivités des villages : il n’est pas anodin lors de ces occasions, de pouvoir acheter et de déguster des anguilles et mulet grillé à la broche, rôtie dans les rues et dans les places lors de célébrations.
+Parmi les produits liés au poisson les meilleurs sont le bottarga, mulet en saumure, pressé et séché par les pêcheurs de Cabras.
+Il est bon à manger en tranches, garni d’un filet d’huile d’olive extra vierge, ou combiné avec divers légumes tels que les artichauts et le céleri.
+Râpé, il assaisonne des plats salés comme les spaghettis, la roquette avec des artichauts et d’autres.
+Petza/Viande
+
+Le cochon de lait rôti est le plat le plus célèbre et le plus consommé durant les vacances dans toute l’île. La manière la plus traditionnelle de le cuisiner est de le rôtir à la broche, il peut être aussi cuit au four ou grillé au bois, il est accompagné de feuilles de myrtilles qui lui donne un goût différent.
+Nous pouvons aussi retrouver l’agneau, qui peut être rôti, à la broche ou au four, ou encore en ragoût avec des artichauds ou des pommes de terre.
+Parmi les plats plus caractéristiques nous retrouvons ; têtes rôties, viscères cuisinés à partir de différentes recettes et sa corda (fabriqué en entrelaçant les intestins), pattes avec sauce.
+Dans le nord de la province sont élevés en liberté deux races bovines ; la Sardo Modicana, mieux connue sous le nom de Bue Rosso (bœuf rouge, caractérisé par sa couleur), et le Sardo Bruna, connu sous le nom de Melina, la couleur de sa fourrure à la couleur du miel.
+La première race est un troupeau de Montiferru devient un Slow Food Presidium (produit protégé).
+La seconde vit dans le plateau d’Abbasanta.
+On peut les cuisiner de différentes manières telles que, rôti, bouilli, transformer en boulettes (sas bombas), ou spezzatino (en cassola ou ghisadu)..
+
+--- Produits Locaux----
+
+Artisanat
+Nourriture
+
+----En--------
+--- Home ------
+<h1> Su Viaggiu Sardu </h1>
+<h2> Oristano </h2>
+
+<p> Hello and welcome to our Su Viaggiu Sardu site.
+We are a travel agency and have created this site to promote
+gourmet tourism in the provinces of Oristano, Ogliastra and Nuoro.
+Here you will find different tours, events. </p>
+
+
+
+<div class = "form" style = "width: 600px; padding-top: 10px; padding-bottom: 10px; border: 3px solid # A0A0A0; text-align: center; background: linear-gradient (90deg, rgba (255 , 255, 255, 0) 0%, rgba (255, 255, 255, 0.2) 25%, rgba (255, 255, 255, 0.2) 75%, rgba (255, 255, 255, 0) 100%); ; "> Subscribe to our mailing list <br />
+Don't miss any news <br />
+<form action = "" method = "get" class = "form-example">
+<div class = "form-example">
+<label for = "name"> Enter your name: </label>
+<input type = "text" name = "name" id = "name" required>
+</div> <br />
+
+<div class = "form-example">
+<label for = "email"> Enter your email: </label>
+<input type = "email" name = "email" id = "email" required>
+</div> <br />
+
+<div class = "form-example">
+<input type = "submit" value = "Subscribe Now">
+</div> <br />
+</form>
+</div>
+
+--- visits ----
+
+<h1> Gourmet itinerary in the province of Ogliastra </h1>
+A gourmet route of more or less 422 kilometers combining visits to local producers and
+cultural and historical tourism.
+This province is the least populated in all of Italy. Nature is there, therefore, very preserved.
+This offers us rich and varied landscapes.
+The route will allow us to taste family cuisine as well as some good wines produced in
+the province of Ogliastra.
+To taste
+- Family cooking at Restaurant Mamulada in Seui
+- Wines at the Jerzu Antichi Poderi wine merchant
+To visit
+- Cave of Is Janas (Cave of the fairies) in Sadali
+- Parco Archeologico e Naturalistico del Bosco Seleni
+Organizer
+Mr. Beugnies Alexandre
+Collaborators (potential)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Mr. Zucca, receptionist at Mistral Due.
+
+Itinerary :
+8.00: Departure from the hotel "Mistral Due" located in Oristano
+10.00: Arrival at the Caves of Is Janas. The guided tour of the place lasts about 2 hours.
+12.30: Arrival at Ristorante Mamulada.
+14.00: Departure from the restaurant in the direction of Bosco Seleni.
+A minimum of 2 hours is required for the visit of the archaeological park.
+5.30 p.m .: Departure from the park in the direction of Jerzu Poderi, renowned wine merchant.
+6.00 p.m .: Guided tour and wine tasting
+19.30: Return to Mistral Due and arrival scheduled between 21.00 and 21.30
+
+<h1> Gourmet itinerary in the province of Nuoro (A) </h1>
+This coach route takes you from the province of Oristano to the province of Nuoro, an alternating region
+mountain ranges and valleys.
+This province, like all Sardinian regions, has kept its own specialties, inspired by
+culinary traditions. The peasant traditions remain very much alive there.
+To taste and make yourself
+- Sardinian Taste Lab in Atzara
+
+To visit
+- Fordongianus:
+o Roman baths
+o Aragonese house
+o Roman amphitheater
+
+Organizer
+Mr. Beugnies Alexandre
+Collaborators (potential)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Mr. Zucca, receptionist at Mistral Due.
+Itinerary :
+9.00: Departure from the hotel "Mistral Due" located in Oristano.
+10.00: Arrival at the Roman baths and amphitheater of Fordongianus. Visiting the place requires
+about 2 hours.
+12.00 / 12.30: Departure from the thermal baths towards the Sardinian Taste Lab
+13.00 / 13.30: Arrival at the "Laboratory of taste" the different experiences and tastings last 5
+hours approximately
+18.00 / 18.30: Return to Mistral Due in Oristano
+19.30 / 20.30: Arrival at the hotel
+
+<h1> Gourmet itinerary in the province of Nuoro (B) </h1>
+This second route in the province of Nuoro will allow tourists to meet the
+local farmers and the discovery of other riches, cultural or historical, of this region.
+To taste
+- Agriturismo Costiolu in Barbagia di Ollolai
+
+To visit
+- Parco archeologico Biru e 'Concas in Sorgono
+- Murals of Tinnura
+
+Organizer
+Mr. Beugnies Alexandre
+Collaborators (potential)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Mr. Zucca, receptionist at Mistral Due
+
+Itinerary :
+9.00: Departure from the hotel "Mistral Due" located in Oristano
+10.00: Arrival at Biru e ‘Concas archaeological park in Sorgono. Two hours are needed to
+enjoy the site visit
+12.00 / 12.30: Departure from the park towards Agriturismo Costiolu located in Ollolai. A good hour
+of road is necessary to reach the place where tourists can enjoy the cuisine and
+Sardinian know-how.
+17.00: Departure from Agriturismo Costiolu towards Tinnura to admire the frescoes
+murals.
+18.00 / 18.30: Return to the hotel
+19.00 / 19.30: Arrival at Mistral Due in Oristano
+
+<h1> Gourmet route in the province of Oristano </h1>
+This begins with a walk that takes tourists from the Hotel Mistral Due to the
+historic center of Oristano, a place steeped in history where the great Eleonora of Arborea was born,
+like Joan of Arc, fought against invaders who were Spanish.
+The rest of the excursion, by coach, will allow tourists to get to know a province
+where water plays an important role (rivers, lakes and ponds).
+
+To taste (and to visit)
+- Sardinian cheeses at CAO Formaggi
+- Ittiturismo Sa Pischera ‘e Mar’ e Pontis in Cabras
+- Educational Farm in Tramatza
+To visit
+- Parco Paleontologico Dinosardo
+- IS Arutas (beach)
+- Archaeological Site of Tharros
+Organizer
+Mr. Beugnies Alexandre
+Collaborators (potential)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Mr. Zucca, receptionist at Mistral Due.
+
+Itinerary :
+9.00: Departure from the Mistral hotel located in Oristano. This visit is done on foot, the historic center is
+located not far from the hotel.
+9.15: Arrival in the historic center of Oristano. The site visit lasts about an hour. The bus y
+will wait for tourists
+10.30: The coach leaves the historic center in the direction of the Dinosardo paleontological park
+11.00: Arrival at the park. Tourists need about an hour and a half to appreciate the
+historical riches of the place.
+12.30: Arrival at CAO Formaggi where tourists can taste and / or buy various cheeses
+Sardinians.
+13.30: Departure from the cooperative towards Ittiturismo sa Pischera e ’Mar‘ e Pontis located approximately
+15 minutes by coach from Formaggi CAD.
+14.00: Visit of the fish farm and possibility of catering for tourists who wish
+16.00: Departure towards Is Arutas beach, located in the Gulf of Oristano.
+17.00: The tourists leave the beach to go by coach to the educational farm located in Tramatza.
+18.00: Departure from the farm towards the archaeological site of Tharros.
+18.30 / 18.45: Arrival at the Tharros site and visit of the place. Possibility to stay until closing
+scheduled for 20.00.
+20.00: Return to the Mistral Due.
+20.30 / 21.00: Arrival at the hotel in Oristano.
+
+--- Sporting activities-----
+
+<h1> Diving </h1>
+
+<p> Scuba diving: Diving trips to marvelous sites, near the coast or in the open sea, will make you discover the multicolored underwater environment, rich in wrecks from various eras.
+diving photo </p>
+
+<h1> Surfing / windsurfing / kitesurfing </h1>
+
+<p> Capo Mannu's spot has been called "the Hawaii of the Mediterranean".
+Located a few kilometers from Hotel la Baja and Camping Nurapolis, it offers the possibility of practicing these three types of water sports to play with the wind and the waves.
+surf photo </p>
+
+<h1> Bikes </h1>
+
+<p> Numerous courses and paths that wind their way literally skimming the coast or plunging into the magnificent mountain landscapes.
+Biciclette </p>
+
+<h1> Climbing </h1>
+
+<p> The province of Oristano is known to climbing enthusiasts for its variety of types of walls to practice.
+Not far from the hotel and the campsite, near the archaeological excavations of Cornus from the 6th century BC, there are several climbing routes.
+Here is what Maurizio Oviglia, one of the leading experts in climbing in Sardinia, writes on the Planet Mountain website: "The region of Santa Caterina di Pittinuri is already known for the beauty of the beaches, it is less so. because of the small basalt cliffs, hidden in the folds of Monti Ferru.
+They are not, as I said, large obvious cliffs, but small ridges hidden in the ravines, offering an intensive climb that rarely reaches 20 to 25 meters.
+So it makes sense that local climbers often associate rock climbing with bouldering.
+Indeed, the two cliffs that we offer each have, in addition to the cliff, their climbing area. “Currently, 49 routes are available in two sectors with a large majority of scores between 5 and 6.
+climbing pictures </p>
+
+<h1> Golf </h1>
+
+<p> An 18-hole golf course (par 72) is a few kilometers from the hotel and the campsite.
+The course was designed by renowned American architects Von Hagge, Smelek and Baril, who introduced the 18 holes in the natural dunes that characterize the area, creating one of the most spectacular courses in Europe, both from the point of view technique than from a landscape point of view.
+golf photo </p>
+
+<h1> Fishing </h1>
+
+<p> In this part of the province of Oristano, it is possible to fish in all its variants thanks to the presence of marine heritage and fishing cooperatives.
+On the long beach of Is Arenas, practically the beach of Camping Nurapolis, we practice surf casting and the beach often organizes regional and national competitions.
+Various companies in the sector offer the possibility of sea fishing, an exciting experience.
+On board the local fishing boats, participate in their traditional fishing and passing beautiful bays and islets, you can taste local dishes made with fresh fish.
+fishing </p>
+
+<h1> Trekking </h1>
+
+<p> If you like hiking or Nordic walking, you've come to the right place.
+Between sea and mountain, dozens of trails and paths will make you discover the most beautiful corners of our territory.
+Winding paths along the sea to beaches and coves that are otherwise difficult to access.
+Trails, usually made by animals, lead you to an altitude of 1050 meters, where you can admire breathtaking landscapes after passing through thick old-growth forests where it is not uncommon to meet bighorn sheep. and wild boars.
+Trekking photo </p>
+
+<h1> Horse riding </h1>
+
+<p> The province of Oristano has a long tradition of horse breeding, hence the abundance of rides that organize walks, breeder's fairs, and above all parties and races where riders can show their pride and courage.
+Riding along the ponds where the flamingos live is a unique experience.
+Equestrian photo </p>
+
+<h1> Motocross </h1>
+
+<p> A motocross track is located a stone's throw from the hotel and the campsite in the dunes of the ancient desert of Is Arenas, which was the largest sand desert in Europe until the mid-1950s .
+The course is unique, technical and exciting and the climate is ideal in all seasons. Even in the rainy season, the sandy bottom provides excellent drainage.
+Many teams, national and international, frequent this track which they find exceptional </p>
+
+--- Events ---
+
+SANTU ANTONI DE SU FOGU / SAINT ANTHONY L’ABBE
+This festival is celebrated between January 16 and 17. She is of pre-Christian origin and includes
+all religious functions as well as the lighting and blessing of the bonfire.
+It is lit in all
+towns in the province, with
+different characteristics in
+depending on where he is
+alight. It can be tall or
+small and we burn huge
+pile of whole tree trunks
+transported by cables on
+place and set it on fire.
+In many cities, this
+coincides with the opening of the
+carnival. During this
+occasion "sa panischedda" or "su pani de saba" are prepared. These are desserts
+typical products made from "sapa" (sweet grape syrup).
+
+
+
+CARRASEGARE / CARNIVAL
+Carnival in the province of Oristano is very varied. Indeed, traditions have survived and we
+often find, in these carnivals, very old traditions such as the games
+equestrian, traditional dances and ancestral masks. Of course, we can find
+culinary dishes and exclusive desserts specific to these events.
+Well known for its particularity, Su Carrasegare Osincu in Bosa starts on Shrove Thursday.
+Spectators participate in this festival from Shrove Tuesday. Very early in the morning, the participants
+(men and women) wear traditional clothes and celebrate the rite of Atitidu
+(funeral lamentations). In the evening they are all dressed in white. This carnival represents
+sex allegory.
+In Ghilarza, the penultimate Sunday of Carnival, the celebration of an ancient custom
+reappears every year. Residents wearing lentzolu mascheras (masks
+made with white linens) and burrones (men in traditional black dress and
+faces painted with burnt cork) dance in the streets as well as in the historic center
+from the city. Sas màscheras zoomorfas antigas (ancient masked ritual) takes place in the streets
+from: Neoneli sos Corriolos, in Cuglieri sos Cotzulados, in Ula Tirso sos Urtzos and sos Bardianos, in
+Samugheo sos Mamutzones, in Paulilatino sos Corrajos, in Laconi Su Corongiaiu.
+Equestrian games remain a preserved tradition dating back several centuries. The most known
+is that of Oristano, Sa Sartiglia, is a medieval tradition. On this day a
+incredible ceremony led by su Cumpinadori (an androgynous demigod) who controls the
+race organized by the corporation (Gremi) of farmers and carpenters. The race takes place p
+Shrove Tuesday and the last Sunday of Carnival. In this race, they must recover
+stars hanging along the road with their swords.
+In Santulussurgiu, we celebrate its Carrela ‘e nanti, a horse race, where horses
+gallop through the narrow winding streets of the village. In Sedilo, in Paulalitino and in several
+in other towns of the province, the traditional cursa a sa pudda is held, where the riders must
+collect the pieces of a fabric hen on the path.
+Traditional dances are very common during these festivities. They characterize the
+Sardinian carnival. In several places in the province, they are accompanied by the sound of a
+organ, accordion or the voices of the men of cuntratos and cuncordos. In Seneghe, the
+people dance his partza de sos ballos which takes place every Sunday and begins on
+Sunday in San Sebastian. Mardi Gras, su Martis de coa, is the day of sas andantzas.
+
+In the morning, dancers dressed in traditional costumes dance in the town square according to
+a particular choreography resembling a star. On those days, in Aidomaggiore, the
+cointrotza is danced. A long line of dancers draws circles and spirals following
+Figure 2 Sa Sartiglia Figure 1 Carrasegare Osincu
+
+
+the rhythm of the music played by the diatonic accordion5, the triangle and su tumbarinu
+(local and traditional drum). In Marrubiu takes place su Marrulleri, famous parade of
+groups of masked people.
+
+CHIDA SANTA / HOLY WEEK
+In the province of Oristano, the rites of Holy Week represent a moment of
+deep religiosity. Ceremonies are held in all regions. These last years
+religious tourism has developed there more and more. The most striking are the rites
+practiced in Cuglieri, Santulussurgiu and Scano di Montiferro. In most of the province,
+on Easter Sunday, the procession of the artistically intertwined palm tree takes place.
+The brotherhoods are the protagonists of liturgical and paraliturgical rites among which we
+finds, s Iscravamentu, the deposit of Christ
+death on the cross, and Incontru, the encounter
+with the resurrection of the son of the Virgin Mary.
+These events are accompanied by
+the traditional repertoire of sacred songs
+Sardinian and Latin, performed by four voices
+male of su cuncordu or cuntzertu.
+
+5 Diatonic accordion: accordion with different blades in order to produce a different sound (whether in
+pushing and pulling the bellows), different from a chromatic accordion.
+Figure 3 Sos Mamutzones
+
+
+
+ARDIA DE SEDILO / ARDIA DE SEDILO
+In July, one of the most beautiful and famous festivals in Sardinia called Ardia is held in
+Sedilo. For centuries, hundreds of riders have taken part in a race. The evening of
+July 6 and on the morning of July 7, in honor of Saint Constantine, horsemen dressed in
+the emperor's or knight's habit reproduce the battle between Constantine and Maxentius,
+the battle of Ponte Milvio (312 AD). The race is led by a leader, his prima pandela,
+followed by two other horsemen, segunda and tertza pandela as well as guards, who
+represent Constantine and his army and the other Maxentius and his army.
+
+REGATA DE IS FASSONIS / REGATTA DE IS FASSONIS
+A summer Sunday, every year, in the Santa Giusta pool, located in the Golf
+of Oristano takes place the regatta of Is Fassonis, an ancient marsh boat made with
+stems of reeds and blades of grass. Very similar to the Peruvian balsa, the boatman of the Is Fassonis,
+who must remain standing, moves his boat forward with a long oar.
+
+SANTA MARIA DE MARE / SAINT MARY OF THE SEA
+In Bosa, on the first Sunday of August, Saint Mary of the Sea is celebrated. Boats of
+festively decorated fishing along the Temo river (the only navigable river in Sardinia),
+one of them carrying the statue of the Virgin from the church of the coastal village of Saint Mary of
+the sea to the Cathedral of the Immaculate Virgin. Also in August, in Marceddi,
+fishing village located along the coast of the town of Terralba, a procession is held on
+the sea with flagged boats, throwing flowers. One of them represents
+a wreck in memory of those who died at sea.
+
+
+
+SARTIGLIEDDA
+In Torregrande, on the day of the assumption, the coastal villages of the province of Oristano, is held
+in summer the Sartigliedda which takes over all the phases of Sa Sartiglia: clothing for
+Cumponidoreddu, the star race and horse acrobatics. The protagonists are
+children.
+
+SANTU INNATZIU DE LACONI / SAINT IGNATIUS DE LACONI
+In Laconi is celebrated Fra ‘Innàtzu (1701-1781), the patron saint of the province of Oristano.
+The procession takes place on August 31 and thousands of pilgrims attend. Several groups
+folklore and fraternities from different parts of the island meet there. You can visit the museum of
+Menhir and Aymerich Park, where you will have the opportunity to admire the remains of a
+
+
+medieval castle. The park is an oasis of greenery of 22 hectares, comprising
+magnificent plant species and waterfalls.
+
+IS ISCURTZOS DE SANTU SARBADORI / THE BAREFOOT RUNNERS OF SAINT
+SALVATORE
+In the rural villages of Cabras and San Salvatore, on the first Saturday of September, the
+barefoot running, a ritual that has been repeated every year for 5 centuries, reminiscent of the invasion
+of the Sarazins. Hundreds of men across the country, in robes, run barefoot wearing
+the statue of the Savior of Cabras to the rural church. In turn, two runners wear the
+sedan with the statue of the Saint, along a path of dust. No one can overtake.
+Every hundred meters, those carrying the statue change places with others.
+On Sunday the statue returns
+in Cabras in the same way.
+On the first day of the novena,
+dressed women
+traditionally and bare feet,
+do the same but
+carry a small statue of
+Saint leaving the countryside
+to San Salvatore and
+then return to Cabras.
+
+
+NOSTRA SENNORA DE SU RIMEDIU / OUR LADY OF REMEDY
+The eighth of September is celebrated in Donigala Fenughedu, Our Lady of Remedy, feast
+especially for the communities of the province and the island of Sardinia. Number of
+faithful who go to the shrine to participate in all liturgical masses. After the
+religious celebrations, many pilgrims stay in the courtyard of the church in the
+specific where they can eat roast suckling pig, mullet and eels, mostaccioli and
+nougat and can drink Vernaccia wine.
+NOSTRA SENNORA DE BONACATU / NOTRE DAME DE BONACATU
+The eighteenth and nineteen of September in Bonarcado is celebrated the feast of Our Lady of
+Bonacatu. The temple of Madonna di Bonacatu is one of the oldest on the island, dating from
+6th century AD. The Romanesque church adjoining this temple dates from the 13th century.
+century and was built by Camaldolese. The registers of this temple were drawn up in
+Sardinian and represent the main source of medieval history in the province of Oristano.
+On the afternoon of the 18th, several worshipers and congregations take part in the
+procession singing Rosary in Sardinian.
+SAS FESTAS IN SOS NOVENARIOS / RURAL FESTIVITIES
+From April / May until October throughout Sardinia, in several churches of
+campaign, parties are held. Almost all of them last between nine and ten days. All the
+participants move into a home to attend religious services, often in the language
+Sardinian, and perpetuating ancient rites. During these days, small villages come to life thanks to
+entertainment and shows of various kinds, community lunches or
+dinners and cumbidos, desserts and drinks offered to participants. The novena of Saint
+Seraphim closes the long schedule of campaign festivities in the province. From
+Thursday before the third Sunday until the morning of the last Sunday in October, at
+Ghilarza, near Lake Omodeo, Archangel Raphael is celebrated. The medieval church is
+popular. One can admire there a bas-relief of the coat of arms of the uprooted tree of Arborea, which is
+became the symbol of the Province of Oristano.
+
+---Arts and crafts----
+
+<h1> Tessingiu / Weaving </h1>
+
+<p> In Mogoro and Samugheo, it is possible to visit many weaving workshops and buy rugs, tablecloths, curtains, blankets, sheets, saddlebags and much more.
+The two centers invest a lot in the sector and organize every year, between July and August, the first, the carpet fair, the second, the Sardinian handicraft exhibition - Tessingiu.
+With 'a pibiones' techniques (grain or hedgehog style) and flat weaving with visible weft, works are produced that retain both traditional decorations and patterns and offer modern colors and patterns.
+In Samugheo you can visit the Regional Museum of Sardinian Weaving Crafts (MURATS)
+Sardinian carpet </p>
+
+<h1> Tzeràmica / Ceramic </h1>
+
+<p> Once famous for the production of ceramic vases, pitchers, dishes and other pots, Oristano, with the artistic productions of its potters, continues to be a "city of ceramics".
+Today, artisans transform traditional models into works of art of great value and invent new objects adapted to modern needs.
+ceramic </p>
+
+<h1> Gurteddu / Knives </h1>
+
+<p> Sardinian craftsmanship has an important tradition linked to the processing of knives, in particular resorzas, very popular with tourists and whose use is still widespread in Sardinia.
+Thanks to the dexterity and the know-how of the craftsmen of Santu Lussurgiu, metals and horns are transformed into knives of exceptional beauty, elegant objects forged in typical models of Santu Lussurgiu. </p>
+
+<h1> Istèrgios de fenu e a intrizu / Baskets </h1>
+
+<p> This craft activity, mainly at household level, is characterized by different types in different parts of the province.
+Besides the products still used daily at home and at work, which reproduce traditional patterns and decorations, the art of basket weaving has also made it possible in recent years to produce a contemporary artistic example.
+With the entanglement of reeds, willow, myrtle and mastic, baskets of various sizes are produced, mainly used for transporting fruits and vegetables.
+In Flussio and neighboring villages in the north of the province, asphodel stems are used for making baskets and other items.
+On spring and summer days, the exhibition of work in front of the craftsmen's houses transforms the streets of these villages into attractive markets.
+In San Vero Milis, weaving marsh grasses, you get works artistic features characterized by the presence of red or black. </p>
+
+--- Food ---
+
+Durches / Desserts
+
+During the year, a long list of desserts is prepared according to ancient recipes, accompanying private and traditional celebrations: his panischedda à la Saint Anthony, sas pardulas for Easter; sos pabassinos for the feast of the dead; as well as various fried cakes for carnival, including sas tzipulas are the best known and the most appreciated.
+Honey, nuts, sapa, cottage cheese, eggs, flour (all local products) are the main ingredients in their preparation.
+A huge place is given to sweet almonds; marigosos, candelaos, guefos, turronetos, germinos and others.
+Particularly linked to important occasions such as baptism, communions or even a wedding.
+Sas Pardulas
+Sas Tzipulas
+Casu / Cheese
+
+In a territory linked (economically and culturally) to agriculture, especially in the breeding of sheep and cattle, cheese is one of the most important productions.
+Among the most famous are Fiore Sardo PDO and Pecorino Sardo PDO, or a more aromatic and salty cheese; ricotta, used in the preparation of dishes such as culurgiones, ravioli, or even desserts.
+Casigiolu with its characteristic pear shape made from milk from Modican Sardinian cows and Sardinian bruno, a cheese that can be eaten fresh or aged.
+A slow food presidium protects the production of Casizolu de Montiferru.
+Casigiolu
+Bread / Bread
+
+In Sardinia, the bread is not only important for daily use but continues to take shape and significance during rituals or festivities of ancient culture, in many towns it is not trivial to smell bread baked in the oven. oven, bread differs according to the seasons or the consumption of ordinary or extraordinary weeks of the holidays.
+The bread becomes an artistic work, impressive in beauty during the great liturgical and patronal feasts of Saint it is packed with a multitude of variants, different types of bread during ceremonies among which are su cocoi de pramma, prepared for Palm Sunday: a piece of large strands of pasta decorated with flowers of bread or almonds, and su cocoi de angulla and su cocoi cun s'ou, prepared for Easter, of different shapes, the most used is the dove with an egg and its shell .
+Su Coccoi
+
+
+
+Malvasia
+
+The province of Oristano has a long tradition of producing high quality, robust wines with a relatively high alcohol content.
+One of the most famous and appreciated is Malvasia de Bosa, a white wine, produced in the towns of Bosa, Flussio, Magomadas, Modolo, Tinnura, Tresnuraghes and Suni.
+This wine has an intense aroma and a delicate, dry flavor with a bitter aftertaste.
+Malvasia aged in barrels in which "flor" yeast is added, goes well with sweets made from almonds, young wines, up to the age of three can be consumed as an aperitif.
+Granatza / Vernaccia
+
+Vernaccia d'Oristano is a yellow amber wine with a taste of almonds, which reaches an alcohol degree between fifteen and sixteen degrees and can be drunk chilled as an aperitif or to accompany a dish based on fish, or a smoked cheese or spice.
+It is obtained by a natural process of oxidation by the work of a particular yeast, and aging for three or four years in oak or chestnut not completely filled, we can obtain this unique and distinctive product.
+It is excellent as a dessert wine, especially with sweet almond desserts typical of Sardinia.
+The Vernaccia vineyards are found in Baratili San Pietro, Cabras, Milis, San Vero Milis, Narbolia, Nurachi, Ollastra, Oristano, Palmas Arborea, Riola Sardo, Santa Giusta, Siamaggiore, Simaxis, Solarussa, Tramatza, Zeddiani, Zerfaliu.
+Binu / Wine
+
+Wine production is of great importance for the territory of the province.
+Among these, an important place is occupied by the A.O.C. wines of Arborea: Trebbiano and Sangiovese; Bovale Sardo in Campidano de Terralba; Cannonau, present throughout the region, and in particular Semidano and Monica, vines present in particular in the territory of Mogoro and Marmilla.
+The D.O.C wines of the province are also Malvasia di Bosa, Mandrolisai, Monica di Sardegna, Semidano and Vernaccia di Oristano.
+IGT wines are: Nuraghe Island, Marmilla, Planargia, Tharros.
+
+
+Pasta / Pasta
+
+With durum wheat semolina are prepared different types of pasta, including malloredos, small balls, typical of all of Sardinia, often flavored with saffron, and lorighitas, weave two strands of closed pasta to form small rings of elongated shape, typical of the village of Morgongiori.
+In the most traditional recipes, malloredos and lorighitas, are seasoned with tomato sauce with meat or sausage and grated pecorino.
+Fregula, similar to couscous but larger, is prepared by wetting the semolina flour with a little water, and kneading in a circular motion of the hands on the bottom of a clay basin.
+With the small spheres obtained soups and dishes similar to risotto, seasoned in various ways, especially with clams.
+Culurgiones are ravioli stuffed with fresh cheese or ricotta and chard or potatoes, seasoned with tomato sauce and meat and lots of grated pecorino.
+Culurgiones
+Fregula
+Pische / Fishes
+
+Sophisticated recipes are prepared with fish from the sea and from the lagoons of the province of Oristano; sea ​​bass with Vernaccia, lobster, burrida; and roasts are prepared which give a flavor and an aroma to the different festivities of the villages: it is not trivial on these occasions, to be able to buy and taste eels and mullet grilled on a spit, roasted in the streets and in places during celebrations.
+Among the products related to fish the best are bottarga, mullet in brine, pressed and dried by the fishermen of Cabras.
+It is good to eat sliced, garnished with a drizzle of extra virgin olive oil, or combined with various vegetables such as artichokes and celery.
+Grated, it season savory dishes like spaghetti, arugula with artichokes and others.
+Petza / Meat
+
+Roast suckling pig is the most famous and most popular holiday dish on the island. The most traditional way to cook it is to roast it on a spit, it can also be baked or grilled over a wood, it is accompanied by blueberry leaves which gives it a different taste.
+We can also find lamb, which can be roasted, on a spit or in the oven, or stewed with artichokes or potatoes.
+Among the more characteristic dishes we find; roasted heads, viscera cooked from different recipes and its corda (made by intertwining the intestines), legs with sauce.
+In the north of the province two breeds of cattle are free-range; the Sardo Modicana, better known as Bue Rosso (red beef, characterized by its color), and the Sardo Bruna, known as Melina, the color of its honey-colored fur.
+The first breed is a herd of Montiferru becomes a Slow Food Presidium (protected product).
+The second lives in the Abbasanta Plateau.
+They can be cooked in different ways such as, roasted, boiled, transformed into balls (sas bombas), or spezzatino (in cassola or ghisadu).
+
+--- Local products----
+
+Arts and crafts
+Food 
+
+----Nl---------
+
+<h1> Zo Viaggiu Sardu </h1>
+<h2> Oristano </h2>
+
+<p> Hallo en welkom op onze Su Viaggiu Sardu-site.
+Wij zijn een reisbureau en hebben deze site gemaakt om te promoten
+gastronomisch toerisme in de provincies Oristano, Ogliastra en Nuoro.
+Hier vind je verschillende tours, evenementen, restaurants en nog veel meer. </p>
+
+
+
+<div class = "form" style = "width: 600px; padding-top: 10px; padding-bottom: 10px; border: 3px solid # A0A0A0; text-align: center; background: linear-gradient (90deg, rgba (255 , 255, 255, 0) 0%, rgba (255, 255, 255, 0.2) 25%, rgba (255, 255, 255, 0.2) 75%, rgba (255, 255, 255, 0) 100%); ; "> Abonneer u op onze mailinglijst <br />
+Mis geen nieuws <br />
+<form action = "" method = "get" class = "form-example">
+<div class = "vorm-voorbeeld">
+<label for = "name"> Vul je naam in: </label>
+<invoertype = "tekst" naam = "naam" id = "naam" vereist>
+</div> <br />
+
+<div class = "vorm-voorbeeld">
+<label for = "email"> Voer uw e-mailadres in: </label>
+<invoertype = "e-mail" naam = "e-mail" id = "e-mail" vereist>
+</div> <br />
+
+<div class = "vorm-voorbeeld">
+<input type = "submit" value = "Abonneer nu">
+</div> <br />
+</form>
+</div>
+
+--- bezoeken ----
+
+<h1> Gastronomische route in de provincie Ogliastra </h1>
+Een gastronomische route van ongeveer 422 kilometer die bezoeken aan lokale producenten combineert met
+cultureel en historisch toerisme.
+Deze provincie is de dunst bevolkte van heel Italië. De natuur is er dan ook zeer goed bewaard gebleven.
+Dit biedt ons rijke en gevarieerde landschappen.
+De route stelt ons in staat om familiegerechten te proeven, evenals enkele goede wijnen die in
+de provincie Ogliastra.
+Proeven
+- Familie koken bij Restaurant Mamulada in Seui
+- Wijnen bij de Jerzu Antichi Poderi wijnhandelaar
+Bezoeken
+- Grot van Is Janas (grot van de feeën) in Sadali
+- Parco Archeologico en Naturalistico del Bosco Seleni
+Organisator
+De heer Beugnies Alexandre
+Medewerkers (potentieel)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Meneer Zucca, receptioniste bij Mistral Due.
+
+Routebeschrijving :
+8.00: Vertrek vanaf het hotel "Mistral Due" in Oristano
+10.00: Aankomst bij de Grotten van Is Janas. De rondleiding door de plaats duurt ongeveer 2 uur.
+12.30 uur: Aankomst in Ristorante Mamulada.
+14.00 uur: Vertrek vanuit het restaurant in de richting van Bosco Seleni.
+Voor een bezoek aan het archeologisch park is minimaal 2 uur nodig.
+17.30 uur: Vertrek vanaf het park richting Jerzu Poderi, gerenommeerd wijnhandelaar.
+18.00 uur: Rondleiding en wijnproeverij
+19.30: Terugkeer naar Mistral Due en aankomst gepland tussen 21.00 en 21.30
+
+<h1> Gastronomische route in de provincie Nuoro (A) </h1>
+Deze busroute brengt je van de provincie Oristano naar de provincie Nuoro, een afwisselende regio
+bergketens en valleien.
+Deze provincie heeft, net als alle Sardinische regio's, haar eigen specialiteiten behouden, geïnspireerd door
+culinaire tradities. De boerentradities zijn daar nog springlevend.
+Om zelf te proeven en te maken
+- Sardijns Smaaklab in Atzara
+
+Bezoeken
+-Fordongianus:
+o Romeinse baden
+o Aragonees huis
+o Romeins amfitheater
+
+Organisator
+De heer Beugnies Alexandre
+Medewerkers (potentieel)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Meneer Zucca, receptioniste bij Mistral Due.
+Routebeschrijving :
+9.00 uur: Vertrek vanaf het hotel "Mistral Due" in Oristano.
+10.00: Aankomst bij de Romeinse baden en het amfitheater van Fordongianus. Een bezoek aan de plaats vereist
+ongeveer 2 uur.
+12.00 / 12.30: Vertrek van de thermale baden richting het Sardinian Taste Lab
+13.00 / 13.30: Aankomst in het "Laboratorium van de smaak" de verschillende ervaringen en proeverijen duren 5
+uur ongeveer
+18.00 / 18.30: Terugkeer naar Mistral Due in Oristano
+19.30 / 20.30: Aankomst in het hotel
+
+<h1> Gastronomische route in de provincie Nuoro (B) </h1>
+Via deze tweede route in de provincie Nuoro kunnen toeristen kennismaken met de
+lokale boeren en de ontdekking van andere culturele of historische rijkdommen van deze regio.
+Proeven
+- Agriturismo Costiolu in Barbagia di Ollolai
+
+Bezoeken
+- Parco archeologico Biru e 'Concas in Sorgono
+- Muurschilderingen van Tinnura
+
+Organisator
+De heer Beugnies Alexandre
+Medewerkers (potentieel)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Dhr. Zucca, receptioniste bij Mistral Due
+
+Routebeschrijving :
+9.00: Vertrek vanaf het hotel "Mistral Due" in Oristano
+10.00 uur: Aankomst in het archeologische park Biru e 'Concas in Sorgono. Er zijn twee uur nodig om
+geniet van het sitebezoek
+12.00 / 12.30: Vertrek vanuit het park richting Agriturismo Costiolu in Ollolai. een goed uur
+van de weg is nodig om de plaats te bereiken waar toeristen kunnen genieten van de keuken en
+Sardijnse knowhow.
+17.00 uur: Vertrek vanaf Agriturismo Costiolu richting Tinnura om de fresco's te bewonderen
+muurschilderingen.
+18.00 / 18.30: Terug naar het hotel
+19.00 / 19.30: Aankomst bij Mistral Due in Oristano
+
+<h1> Gastronomische route in de provincie Oristano </h1>
+deze route begint met een wandeling die toeristen meeneemt vanaf Hotel Mistral vanwege de
+historisch centrum van Oristano, een plaats met een rijke geschiedenis waar de grote Eleonora van Arborea werd geboren,
+zoals Jeanne d'Arc, vocht tegen indringers die Spaans waren.
+De rest van de excursie, per touringcar, stelt toeristen in staat een provincie te leren kennen
+waar water een belangrijke rol speelt (rivieren, meren en vijvers).
+
+Proeven (en bezoeken)
+- Sardijnse kazen bij CAO Formaggi
+- Ittiturismo Sa Pischera 'e Mar' e Pontis in Cabras
+- Educatieve boerderij in Tramatza
+Bezoeken
+- Parco Paleontologico Dinosardo
+- IS Arutas (strand)
+- Archeologische vindplaats Tharros
+Organisator
+De heer Beugnies Alexandre
+Medewerkers (potentieel)
+- Bosa Tours
+- Le Mistral Due in Oristano
+- Meneer Zucca, receptioniste bij Mistral Due.
+
+Routebeschrijving :
+9.00: Vertrek vanaf het Mistral-hotel in Oristano. Dit bezoek doe je te voet, het historische centrum is
+niet ver van het hotel gelegen.
+9.15: Aankomst in het historische centrum van Oristano. Het locatiebezoek duurt ongeveer een uur. de bus ja
+zal wachten op toeristen
+10.30: De bus verlaat het historische centrum in de richting van het paleontologische park Dinosardo
+11.00 uur: Aankomst op het park. Toeristen hebben ongeveer anderhalf uur nodig om de
+historische rijkdom van de plaats.
+12.30 uur: Aankomst bij CAO Formaggi waar toeristen diverse kazen kunnen proeven en/of kopen
+Sardiniërs.
+13.30 uur: Vertrek vanaf de coöperatie richting Ittiturismo sa Pischera e 'Mar' e Pontis, ongeveer
+15 minuten met de bus van Formaggi CAD.
+14.00 uur: Bezoek aan de viskwekerij en mogelijkheid tot catering voor toeristen die dat wensen
+16.00 uur: Vertrek richting het strand van Is Arutas, gelegen in de Golf van Oristano.
+17.00 uur: De toeristen verlaten het strand om met de bus naar de educatieve boerderij in Tramatza te gaan.
+18.00 uur: Vertrek vanaf de boerderij naar de archeologische vindplaats Tharros.
+18.30 / 18.45: Aankomst op de Tharros-site en bezoek aan de plaats. Mogelijkheid om te blijven tot sluitingstijd
+gepland om 20.00 uur.
+20.00 uur: Terugkeer naar de Mistral Due.
+20.30 / 21.00: Aankomst in het hotel in Oristano.
+
+--- Sportactiviteiten-----
+
+<h1> Duiken </h1>
+
+<p> Duiken: Duiktrips naar prachtige locaties, aan de kust of in de open zee, laten je de veelkleurige onderwateromgeving ontdekken, rijk aan wrakken uit verschillende tijdperken.
+duikfoto </p>
+
+<h1> Surfen / windsurfen / kitesurfen </h1>
+
+<p> De plek van Capo Mannu wordt "het Hawaï van de Middellandse Zee" genoemd.
+Gelegen op een paar kilometer van Hotel la Baja en de Nurapolis-camping, biedt het de mogelijkheid om deze drie soorten watersporten te beoefenen om met de wind en de golven te spelen.
+surf foto </p>
+
+<h1> Fietsen </h1>
+
+<p> Talloze banen en paden die zich letterlijk een weg banen langs de kust of zich onderdompelen in de prachtige berglandschappen.
+Fietsje </p>
+
+<h1> Klimmen </h1>
+
+<p> De provincie Oristano staat bij klimliefhebbers bekend om de verscheidenheid aan soorten muren om te oefenen.
+Niet ver van het hotel en de camping, vlakbij de archeologische opgravingen van Cornus uit de 6e eeuw voor Christus, zijn er verschillende klimroutes.
+Dit is wat Maurizio Oviglia, een van de toonaangevende klimexperts op Sardinië, op de website van Planet Mountain schrijft: "De regio Santa Caterina di Pittinuri staat al bekend om de schoonheid van de stranden, maar dat is minder. basaltkliffen, verborgen in de plooien van Monti Ferru.
+Dit zijn niet, zoals ik al zei, grote duidelijke kliffen, maar kleine richels verborgen in ravijnen, die een intensieve klim opleveren die zelden 20-25 meter bereikt.
+Het is dus logisch dat lokale klimmers rotsklimmen vaak associëren met boulderen.
+Inderdaad, de twee kliffen die we aanbieden hebben elk, naast de klif, hun klimgebied. “Momenteel zijn er 49 routes beschikbaar in twee sectoren met een grote meerderheid van scores tussen 5 en 6.
+klim foto's </p>
+
+<h1>Golf </h1>
+
+<p> Op enkele kilometers van het hotel en de camping ligt een 18 holes golfbaan (par 72).
+De baan is ontworpen door de bekende Amerikaanse architecten Von Hagge, Smelek en Baril, die de 18 holes introduceerden in de natuurlijke duinen die het gebied kenmerken, waardoor een van de meest spectaculaire banen van Europa is ontstaan, zowel vanuit technisch als landschappelijk oogpunt standpunt.
+golffoto </p>
+
+<h1> Vissen </h1>
+
+<p> In dit deel van de provincie Oristano is het mogelijk om in al zijn varianten te vissen dankzij de aanwezigheid van marien erfgoed en visserijcoöperaties.
+Op het lange strand van Is Arenas, praktisch het strand van Camping Nurapolis, beoefenen we surfcasting en het strand organiseert vaak regionale en nationale wedstrijden.
+Diverse bedrijven in de sector bieden de mogelijkheid tot zeevissen, een spannende ervaring.
+Aan boord van de lokale vissersboten, deelnemen aan hun traditionele visserij en het passeren van prachtige baaien en eilandjes, dat kan proef lokale gerechten gemaakt met verse vis.
+vissen </p>
+
+<h1> Trekking </h1>
+
+<p> Als u van wandelen of nordic walking houdt, bent u hier aan het juiste adres.
+Tussen zee en berg laten tientallen paden en paden u de mooiste hoekjes van ons grondgebied ontdekken.
+Kronkelende paden langs de zee naar stranden en baaien die anders moeilijk toegankelijk zijn.
+Paden, meestal gemaakt door dieren, leiden u naar een hoogte van 1050 meter, waar u adembenemende landschappen kunt bewonderen nadat u door dichte oerbossen bent gegaan waar het niet ongewoon is om dikhoornschapen en wilde zwijnen te ontmoeten.
+Trekkingsfoto </p>
+
+<h1> Paardrijden </h1>
+
+<p> De provincie Oristano heeft een lange traditie van paardenfokkerij, vandaar de overvloed aan attracties die wandelingen, fokkersbeurzen en vooral feesten en races organiseren waar ruiters hun trots en moed kunnen tonen.
+Rijden langs de vijvers waar de flamingo's leven is een unieke ervaring.
+Paardensport foto </p>
+
+<h1> Motorcross </h1>
+
+<p> Op een steenworp afstand van het hotel en de camping ligt een motorcrossbaan in de duinen van de eeuwenoude woestijn van Is Arenas, die tot midden jaren vijftig de grootste zandwoestijn van Europa was.
+De baan is uniek, technisch en spannend en het klimaat is in alle seizoenen ideaal. Zelfs in het regenseizoen zorgt de zandbodem voor een uitstekende afwatering.
+Veel teams, nationaal en internationaal, bezoeken dit circuit dat ze uitzonderlijk vinden </p>
+
+--- Evenementen ---
+
+SANTU ANTONI DE SU FOGU / SAINT ANTHONY L'ABBE
+Dit festival wordt gevierd tussen 16 en 17 januari. Ze is van voorchristelijke afkomst en omvat:
+alle religieuze functies evenals het aansteken en zegenen van het vreugdevuur.
+Het is helemaal verlicht
+steden in de provincie, met
+verschillende kenmerken in
+afhankelijk van waar hij is
+uitstappen. Het kan lang zijn of
+klein en we branden enorm
+stapel hele boomstammen
+getransporteerd door kabels op
+plaats en steek het in brand.
+In veel steden is dit
+valt samen met de opening van de
+carnaval. Tijdens dit
+gelegenheid "sa panischedda" of "su pani de saba" worden bereid. Dit zijn toetjes
+typische producten gemaakt van "sapa" (zoete druivensiroop).
+
+
+
+CARRASEGARE / CARNAVAL
+Carnaval in de provincie Oristano is zeer gevarieerd. Inderdaad, tradities zijn bewaard gebleven en wij
+vinden in deze kermissen vaak zeer oude tradities zoals de spelen
+paardensport, traditionele dansen en voorouderlijke maskers. Natuurlijk kunnen we vinden
+culinaire gerechten en exclusieve desserts die specifiek zijn voor deze evenementen.
+Su Carrasegare Osincu in Bosa staat bekend om zijn bijzonderheid en begint op Vastenavond.
+Toeschouwers nemen vanaf Vastenavond deel aan dit festival. Heel vroeg in de ochtend, de deelnemers
+(mannen en vrouwen) dragen traditionele kleding en vieren de ritus van Atitidu
+(begrafenis klaagzangen). 's Avonds zijn ze allemaal in het wit gekleed. Dit carnaval vertegenwoordigt
+geslacht allegorie.
+In Ghilarza, de voorlaatste zondag van carnaval, de viering van een oud gebruik
+komt elk jaar weer terug. Bewoners die lentzolu mascheras (maskers) dragen
+gemaakt met wit linnen) en burrones (mannen in traditionele zwarte kleding en
+gezichten beschilderd met verbrande kurk) dansen zowel in de straten als in het historische centrum
+uit de stad. Sas màscheras zoomorfas antigas (oud gemaskerd ritueel) vindt plaats op straat
+uit: Neoneli sos Corriolos, in Cuglieri sos Cotzulados, in Ula Tirso sos Urtzos en sos Bardianos, in
+Samugheo sos Mamutzones, in Paulilatino sos Corrajos, in Laconi Su Corongiaiu.
+Paardensportspelen blijven een bewaarde traditie die al eeuwen teruggaat. de meest bekende
+is die van Oristano, Sa Sartiglia, is een middeleeuwse traditie. Op deze dag een
+ongelooflijke ceremonie geleid door su Cumpinadori (een androgyne halfgod) die de
+race georganiseerd door de corporatie (Gremi) van boeren en timmerlieden. De race vindt plaats p
+Vastenavond en de laatste zondag van carnaval. In deze race moeten ze herstellen
+sterren die met hun zwaarden langs de weg hangen.
+In Santulussurgiu vieren we de Carrela 'e nanti, een paardenrace waarbij paarden
+galop door de smalle kronkelende straatjes van het dorp. In Sedilo, in Paulalitino en in verschillende
+in andere steden van de provincie wordt de traditionele cursa a sa pudda gehouden, waar de ruiters moeten
+verzamel de stukken van een stoffen kip op het pad.
+Traditionele dansen zijn heel gebruikelijk tijdens deze festiviteiten. Ze kenmerken de
+Sardisch carnaval. Op verschillende plaatsen in de provincie worden ze begeleid door het geluid van een
+orgel, accordeon of de stemmen van de mannen van cuntratos en cuncordos. In Seneghe, de
+mensen dansen zijn partza de sos ballos die elke zondag plaatsvindt en begint op
+Zondag in San Sebastián. Mardi Gras, su Martis de coa, is de dag van sas andantzas.
+
+In de ochtend dansen dansers gekleed in traditionele kostuums op het stadsplein volgens
+een bepaalde choreografie die op een ster lijkt. Op die dagen, in Aidomaggiore,
+cointrotza wordt gedanst. Een lange rij dansers tekent cirkels en spiralen die volgen
+Afbeelding 2 Sa Sartiglia Afbeelding 1 Carrasegare Osincu
+
+
+het ritme van de muziek gespeeld door de diatonische accordeon5, de driehoek en su tumbarinu
+(lokale en traditionele trommel). In Marrubiu vindt su Marrulleri plaats, de beroemde parade van
+groepen gemaskerde mensen.
+
+CHIDA SANTA / HEILIGE WEEK
+In de provincie Oristano vertegenwoordigen de rituelen van de Goede Week een moment van
+diepe religiositeit. In alle regio's worden ceremonies gehouden. Deze laatste jaren
+religieus toerisme heeft zich daar meer en meer ontwikkeld. Het meest opvallend zijn de riten
+beoefend in Cuglieri, Santulussurgiu en Scano di Montiferro. In het grootste deel van de provincie,
+op Paaszondag vindt de processie van de artistiek verweven palmboom plaats.
+De broederschappen zijn de protagonisten van liturgische en paraliturgische riten, waaronder wij
+vindt, s Iscravamentu, het depot van Christus
+dood aan het kruis, en Incontru, de ontmoeting
+met de opstanding van de zoon van de Maagd Maria.
+Deze evenementen gaan gepaard met:
+het traditionele repertoire van heilige liederen
+Sardisch en Latijn, uitgevoerd door vier stemmen
+man van su cuncordu of cuntzertu.
+
+5 Diatonische accordeon: accordeon met verschillende bladen om een ​​ander geluid te produceren
+het duwen en trekken van de balg), anders dan een chromatische accordeon.
+Afbeelding 3 Sos Mamutzones
+
+
+
+ARDIA DE SEDILO / ARDIA DE SEDILO
+In juli wordt een van de mooiste en beroemdste festivals op Sardinië, Ardia genaamd, gehouden in
+Sedilo. Eeuwenlang hebben honderden renners deelgenomen aan een wedstrijd. de avond van
+6 juli en op de ochtend van 7 juli, ter ere van Sint Constantijn, ruiters gekleed in
+het habijt van de keizer of ridder reproduceert de strijd tussen Constantijn en Maxentius,
+de slag bij Ponte Milvio (312 na Christus). De race wordt geleid door een leider, zijn prima pandela,
+gevolgd door twee andere ruiters, segunda en tertza pandela, evenals bewakers, die
+vertegenwoordigen Constantijn en zijn leger en de andere Maxentius en zijn leger.
+
+REGATA DE IS FASSONIS / REGATTA DE IS FASSONIS
+Een zomerse zondag, elk jaar, in het Santa Giusta-zwembad, gelegen in de Golf
+van Oristano vindt de regatta van Is Fassonis plaats, een oude moerasboot gemaakt met
+stengels van riet en grassprieten. Zeer vergelijkbaar met de Peruaanse balsa, de bootsman van de Is Fassonis,
+die moet blijven staan, beweegt zijn boot met een lange riem vooruit.
+
+SANTA MARIA DE MARE / SAINT MARIA VAN DE ZEE
+In Bosa wordt op de eerste zondag van augustus de Heilige Maria van de Zee gevierd. Boten van
+feestelijk versierd vissen langs de rivier de Temo (de enige bevaarbare rivier op Sardinië),
+een van hen draagt ​​het beeld van de Maagd uit de kerk van het kustplaatsje Saint Mary of
+de zee naar de kathedraal van de Onbevlekte Maagd. Ook in augustus, in Marceddi,
+vissersdorp gelegen langs de kust van de stad Terralba, een processie wordt gehouden op
+de zee met gevlagde boten, bloemen gooiend. Een van hen vertegenwoordigt
+een wrak ter nagedachtenis aan degenen die op zee zijn omgekomen.
+
+
+
+SARTIGLIEDDA
+In Torregrande, op de dag van de hemelvaart, worden de kustdorpen van de provincie Oristano gehouden
+in de zomer de Sartigliedda die alle fasen van Sa Sartiglia overneemt: kleding voor
+Cumponidoreddu, de sterrace en paardenacrobatiek. De hoofdrolspelers zijn
+kinderen.
+
+SANTU INNATZIU DE LACONI / SAINT IGNATIUS DE LACONI
+In Laconi wordt Fra 'Innàtzu (1701-1781), de patroonheilige van de provincie Oristano, gevierd.
+De processie vindt plaats op 31 augustus en duizenden pelgrims zijn aanwezig. Meerdere groepen
+folklore en broederschappen uit verschillende delen van het eiland ontmoeten elkaar daar. U kunt een bezoek brengen aan het museum van
+Menhir en Aymerich Park, waar u de kans krijgt om de overblijfselen van een
+
+
+middeleeuws kasteel. Het park is een oase van groen van 22 hectare, bestaande uit:
+prachtige plantensoorten en watervallen.
+
+IS ISCURTZOS DE SANTU SARBADORI / DE BLOOTVOETSE LOPERS VAN SAINT
+SALVATORE
+In de landelijke dorpjes Cabras en San Salvatore wordt op de eerste zaterdag van september de
+hardlopen op blote voeten, een ritueel dat al 5 eeuwen lang elk jaar wordt herhaald en dat doet denken aan de invasie
+van de Sarazins. Honderden mannen in het hele land, in gewaden, lopen op blote voeten
+het standbeeld van de Verlosser van Cabras naar de landelijke kerk. Op hun beurt dragen twee lopers de
+sedan met het standbeeld van de heilige, langs een pad van stof. Niemand kan inhalen.
+Elke honderd meter wisselen de dragers van het beeld met anderen van plaats.
+Op zondag keert het beeld terug
+in Cabras op dezelfde manier.
+Op de eerste dag van de noveen,
+geklede vrouwen
+traditioneel en blote voeten,
+doe hetzelfde maar
+draag een klein standbeeld van
+Sint verlaat het platteland
+naar San Salvatore en
+keer dan terug naar Cabras.
+
+
+NOSTRA SENNORA DE SU RIMEDIU / ONZE DAME VAN REMEDIE
+De achtste september wordt gevierd in Donigala Fenughedu, Onze Lieve Vrouw van Remedy, feest
+vooral voor de gemeenschappen van de provincie en het eiland Sardinië. Aantal
+gelovigen die naar het heiligdom gaan om deel te nemen aan alle liturgische missen. Na de
+religieuze vieringen, veel pelgrims verblijven op de binnenplaats van de kerk in de
+specifiek waar ze gebraden speenvarken, harder en paling, mostaccioli en . kunnen eten
+nougat en kan Vernaccia-wijn drinken.
+NOSTRA SENNORA DE BONACATU / NOTRE DAME DE BONACATU
+De achttiende en negentien september in Bonarcado wordt gevierd het feest van Onze Lieve Vrouw van
+Bonacatu. De tempel van Madonna di Bonacatu is een van de oudste op het eiland, daterend uit
+6e eeuw na Christus. De Romaanse kerk naast deze tempel dateert uit de 13e eeuw.
+eeuw en werd gebouwd door Camaldolese. De registers van deze tempel zijn opgemaakt in
+Sardijnse en vertegenwoordigen de belangrijkste bron van middeleeuwse geschiedenis in de provincie Oristano.
+Op de middag van de 18e nemen verschillende gelovigen en gemeenten deel aan de
+processie die rozenkrans zingt in het Sardijns.
+SAS-FEESTEN IN SOS NOVENARIOS / LANDELIJKE FEESTEN
+Van april / mei tot oktober in heel Sardinië, in verschillende kerken van
+campagne, feesten worden gehouden. Ze duren bijna allemaal tussen de negen en tien dagen. Al de
+deelnemers verhuizen naar een huis om religieuze diensten bij te wonen, vaak in de taal
+Sardijnse, en het bestendigen van oude riten. Tijdens deze dagen komen kleine dorpjes tot leven dankzij
+entertainment en verschillende soorten shows, gemeenschapslunches of
+diners en cumbidos, desserts en drankjes aangeboden aan deelnemers. De noveen van Saint
+Seraphim sluit het lange programma van campagnefestiviteiten in de provincie af. Vanaf
+Donderdag voor de derde zondag tot de ochtend van de laatste zondag van oktober, om
+In Ghilarza, vlakbij het Omodeomeer, wordt aartsengel Raphael gevierd. De middeleeuwse kerk is
+populair. Men kan er een bas-reliëf bewonderen van het wapen van de ontwortelde boom van Arborea, dat is
+werd het symbool van de provincie Oristano.
+
+--- Ambachten----
+
+<h1> Tessingiu / Weven </h1>
+
+<p> In Mogoro en Samugheo is het mogelijk om vele weefateliers te bezoeken en vloerkleden, tafelkleden, gordijnen, dekens, lakens, zadeltassen en nog veel meer te kopen.
+De twee centra investeren veel in de sector en organiseren elk jaar, tussen juli en augustus, de eerste, de tapijtbeurs, de tweede, de Sardijnse ambachtstentoonstelling - Tessingiu.
+Met 'a pibiones'-technieken (graan- of egelstijl) en plat weven met zichtbare inslag, worden werken geproduceerd die zowel traditionele decoraties als patronen behouden en moderne kleuren en patronen bieden.
+In Samugheo kunt u een bezoek brengen aan het Regionaal Museum van Sardijnse Weefambachten (MURATS)
+Sardisch tapijt </p>
+
+<h1> Tzeràmica / Keramiek </h1>
+
+<p> Ooit beroemd om de productie van keramische vazen, kruiken, schalen en andere potten, is Oristano, met de artistieke producties van zijn pottenbakkers, nog steeds een "stad van keramiek".
+Tegenwoordig transformeren ambachtslieden traditionele modellen in kunstwerken van grote waarde en bedenken ze nieuwe objecten die zijn aangepast aan de moderne behoeften.
+keramiek </p>
+
+<h1> Gurteddu / Messen </h1>
+
+<p> Sardijns vakmanschap heeft een belangrijke traditie in verband met de verwerking van messen, met name resorzas, die erg populair zijn bij toeristen en waarvan het gebruik nog steeds wijdverbreid is op Sardinië.
+Dankzij de behendigheid en de knowhow van de ambachtslieden van Santu Lussurgiu, worden metalen en hoorns omgevormd tot messen van uitzonderlijke schoonheid, elegante voorwerpen gesmeed in typische modellen van Santu Lussurgiu.</p>
+
+<h1> Istèrgios de fenu e a intrizu / Manden </h1>
+
+<p> Deze ambachtelijke activiteit, voornamelijk op huishoudniveau, wordt gekenmerkt door verschillende typen in verschillende delen van de provincie.
+Naast de producten die nog steeds dagelijks thuis en op het werk worden gebruikt, die traditionele patronen en decoraties reproduceren, heeft de kunst van het mandenvlechten het de afgelopen jaren ook mogelijk gemaakt om een ​​hedendaags artistiek voorbeeld te produceren.
+Met de verstrengeling van riet, wilg, mirte en mastiek worden manden van verschillende afmetingen geproduceerd, voornamelijk gebruikt voor het transport van groenten en fruit.
+In Flussio en naburige dorpen in het noorden van de provincie worden affodelstengels gebruikt voor het maken van manden en andere artikelen.
+Op lente- en zomerdagen verandert de tentoonstelling van werk voor de huizen van de ambachtslieden de straten van deze dorpen in aantrekkelijke markten.
+In San Vero Milis, moerasgras wevend, krijg je artistieke werk kenmerken die worden gekenmerkt door de aanwezigheid van rood of zwart. </p>
+
+--- Voedsel ---
+
+Durches / Desserts
+
+Gedurende het jaar wordt er een lange lijst met desserts bereid volgens oude recepten, die gepaard gaan met particuliere en traditionele vieringen: zijn panischedda à la Sint-Antonius, sas pardulas voor Pasen; sos pabassinos voor het feest van de doden; evenals verschillende gebakken taarten voor carnaval, waaronder sas tzipulas, zijn de bekendste en meest gewaardeerde.
+Honing, noten, sapa, kwark, eieren, meel (allemaal lokale producten) zijn de hoofdingrediënten bij de bereiding.
+Een enorme plaats wordt gegeven aan zoete amandelen; marigosos, candelaos, guefos, turronetos, germinos en anderen.
+Vooral gekoppeld aan belangrijke gelegenheden zoals doop, communie of zelfs een bruiloft.
+Sas Pardulas
+Sas Tzipulas
+Casu / Kaas
+
+In een gebied dat (economisch en cultureel) verbonden is met de landbouw, vooral in het fokken van schapen en runderen, is kaas een van de belangrijkste producties.
+Tot de meest bekende behoren Fiore Sardo BOB en Pecorino Sardo BOB, of een meer aromatische en zoute kaas; ricotta, gebruikt bij de bereiding van gerechten zoals culurgiones, ravioli of zelfs desserts.
+Casigiolu met zijn karakteristieke peervorm gemaakt van melk van Modican Sardijnse koeien en Sardijnse bruno, een kaas die vers of gerijpt kan worden gegeten.
+Een slow food presidium beschermt de productie van Casizolu de Montiferru.
+Casigiolu
+Brood / Brood
+
+Op Sardinië is het brood niet alleen belangrijk voor dagelijks gebruik, maar blijft het vorm en betekenis krijgen tijdens rituelen of festiviteiten van de oude cultuur, in veel steden is het niet triviaal om in de oven gebakken brood te ruiken. of de consumptie van gewone of buitengewone vakantieweken.
+Het brood wordt een artistiek werk, indrukwekkend van schoonheid tijdens de grote liturgische en patronale feesten van de heilige het zit boordevol varianten, verschillende soorten brood tijdens ceremonies waaronder su cocoi de pramma, bereid voor Palmzondag: een stuk brood grote strengen pasta versierd met bloemen van brood of amandelen, en su cocoi de angulla en su cocoi cun s'ou, bereid voor Pasen, in verschillende vormen, de meest gebruikte is de duif met een ei en zijn schaal.
+Su Cocoi
+
+
+
+Malvasia
+
+De provincie Oristano heeft een lange traditie in het produceren van hoogwaardige, robuuste wijnen met een relatief hoog alcoholgehalte.
+Een van de meest bekende en gewaardeerde is Malvasia de Bosa, een witte wijn, geproduceerd in de steden Bosa, Flussio, Magomadas, Modolo, Tinnura, Tresnuraghes en Suni.
+Deze wijn heeft een intens aroma en een delicate, droge smaak met een bittere afdronk.
+Malvasia gerijpt in vaten waaraan "flor" gist is toegevoegd, past goed bij zoetigheden gemaakt van amandelen, jonge wijnen, kan tot drie jaar als aperitief worden geconsumeerd.
+Granatza / Vernaccia
+
+Vernaccia d'Oristano is een gele amberkleurige wijn met een amandelsmaak, die een alcoholgraad tussen de vijftien en zestien graden bereikt en gekoeld gedronken kan worden als aperitief of bij een gerecht op basis van vis, of een gerookte kaas of specerij.
+Het wordt verkregen door een natuurlijk proces van oxidatie door het werk van een bepaalde gist, en door drie of vier jaar te rijpen in eiken of kastanje dat niet volledig gevuld is, kunnen we dit unieke en onderscheidende product verkrijgen.
+Het is uitstekend als dessertwijn, vooral bij zoete amandeldesserts die typisch zijn voor Sardinië.
+De wijngaarden van Vernaccia zijn te vinden in Baratili San Pietro, Cabras, Milis, San Vero Milis, Narbolia, Nurachi, Olastra, Oristano, Palmas Arborea, Riola Sardo, Santa Giusta, Siamaggiore, Simaxis, Solarussa, Tramatza, Zeddiani, Zerfaliu.
+Binu / Wijn
+
+De wijnproductie is van groot belang voor het grondgebied van de provincie.
+Onder deze wordt een belangrijke plaats ingenomen door de AOC-wijnen van Arborea: Trebbiano en Sangiovese; Bovale Sardo in Campidano de Terralba; Cannonau, aanwezig in de hele regio, en in het bijzonder Semidano en Monica, wijnstokken die vooral aanwezig zijn op het grondgebied van Mogoro en Marmilla.
+De DOC-wijnen van de provincie zijn ook Malvasia di Bosa, Mandrolisai, Monica di Sardegna, Semidano en Vernaccia di Oristano.
+IGT-wijnen zijn: Nuraghe Island, Marmilla, Planargia, Tharros.
+
+
+Pasta / Pasta
+
+Met griesmeel van harde tarwe worden verschillende soorten pasta bereid, waaronder malloredos, kleine balletjes, typisch voor heel Sardinië, vaak op smaak gebracht met saffraan, en lorighitas, weven twee strengen gesloten pasta om kleine ringen van langwerpige vorm te vormen, typisch voor het dorp Morgongiori.
+In de meest traditionele recepten worden malloredos en lorighitas gekruid met tomatensaus met vlees of worst en geraspte pecorino.
+Fregula, vergelijkbaar met couscous maar groter, wordt bereid door het griesmeel met een beetje water te bevochtigen en in een cirkelvormige beweging van de handen op de bodem van een kleikom te kneden.
+Met de kleine bolletjes verkregen soepen en gerechten vergelijkbaar met risotto, op verschillende manieren gekruid, vooral met mosselen.
+Culurgiones zijn ravioli gevuld met verse kaas of ricotta en snijbiet of aardappelen, gekruid met tomatensaus en vlees en veel geraspte pecorino.
+Culurgiones
+Fregula
+Pische / Vissen
+
+Verfijnde recepten worden bereid met vis uit de zee en uit de lagunes van de provincie Oristano; zeebaars met Vernaccia, kreeft, burrida; en braadstukken worden bereid die een smaak en een aroma geven aan de verschillende festiviteiten van de dorpen: het is bij deze gelegenheden niet triviaal om paling en harder aan het spit te kunnen kopen en proeven, geroosterd op straat en op plaatsen tijdens feesten.
+Onder de producten met betrekking tot vis zijn de beste bottarga, harder in pekel, geperst en gedroogd door de vissers van Cabras.
+Het is goed om gesneden te eten, gegarneerd met een scheutje extra vergine olijfolie, of gecombineerd met verschillende groenten zoals artisjokken en bleekselderij.
+Geraspt brengt het hartige gerechten op smaak zoals spaghetti, rucola met artisjokken en andere.
+Petza / Vlees
+
+Geroosterd speenvarken is het beroemdste en populairste vakantiegerecht op het eiland. De meest traditionele manier om het te koken is door het aan het spit te roosteren, het kan ook op hout worden gebakken of gegrild, het wordt vergezeld door bosbessenbladeren waardoor het een andere smaak krijgt.
+We kunnen ook lamsvlees vinden, dat kan worden geroosterd, aan het spit of in de oven, of gestoofd met artisjokken of aardappelen.
+Onder de meer karakteristieke gerechten vinden we; geroosterde koppen, ingewanden gekookt volgens verschillende recepten en zijn corda (gemaakt door de darmen te verstrengelen), poten met saus.
+In het noorden van de provincie lopen twee runderrassen vrij rond; de Sardo Modicana, beter bekend als Bue Rosso (rood rundvlees, gekenmerkt door zijn kleur), en de Sardo Bruna, bekend als Melina, de kleur van zijn honingkleurige vacht.
+Het eerste ras is een kudde Montiferru die een Slow Food Presidium (beschermd product) wordt.
+De tweede woont op het Abbasanta-plateau.
+Ze kunnen op verschillende manieren worden gekookt, zoals geroosterd, gekookt, omgevormd tot balletjes (sas bombas), of spezzatino (in cassola of ghisadu).
+
+--- Regionale producten----
+
+Kunsten en ambachten
+Voedsel 
+
+------ES-------
+
+--- Hogar ------
+<h1> Su Viaggiu Sardu </h1>
+<h2> Oristano </h2>
+
+<p> Hola y bienvenido a nuestro sitio de Su Viaggiu Sardu.
+Somos una agencia de viajes y hemos creado este sitio para promocionar
+turismo gourmet en las provincias de Oristano, Ogliastra y Nuoro.
+Aquí encontrará diferentes tours, eventos, restaurantes y mucho más. </p>
+
+
+
+<div class = "form" style = "width: 600px; padding-top: 10px; padding-bottom: 10px; border: 3px solid # A0A0A0; text-align: center; background: linear-gradient (90deg, rgba (255 , 255, 255, 0) 0%, rgba (255, 255, 255, 0.2) 25%, rgba (255, 255, 255, 0.2) 75%, rgba (255, 255, 255, 0) 100%); ; "> Suscríbete a nuestra lista de correo <br />
+No te pierdas ninguna noticia <br />
+<acción de formulario = "" método = "obtener" clase = "ejemplo de formulario">
+<div class = "formulario-ejemplo">
+<label for = "name"> Ingrese su nombre: </label>
+<input type = "text" name = "name" id = "name" required>
+</div> <br />
+
+<div class = "formulario-ejemplo">
+<label for = "email"> Ingrese su correo electrónico: </label>
+<input type = "email" name = "email" id = "email" obligatorio>
+</div> <br />
+
+<div class = "formulario-ejemplo">
+<input type = "submit" value = "Suscríbete ahora">
+</div> <br />
+</form>
+</div>
+
+--- visitas ----
+
+<h1> Itinerario gastronómico en la provincia de Ogliastra </h1>
+Una ruta gourmet de más o menos 422 kilómetros que combina visitas a productores locales y
+turismo cultural e histórico.
+Esta provincia es la menos poblada de toda Italia. La naturaleza está ahí, por tanto, muy conservada.
+Esto nos ofrece paisajes ricos y variados.
+La ruta nos permitirá degustar una cocina familiar así como unos buenos vinos elaborados en
+la provincia de Ogliastra.
+Probar
+- Cocina familiar en el Restaurante Mamulada en Seui
+- Vinos en el comerciante de vinos Jerzu Antichi Poderi
+A visitar
+- Cueva de Is Janas (Cueva de las hadas) en Sadali
+- Parco Archeologico e Naturalistico del Bosco Seleni
+Organizador
+Sr. Beugnies Alexandre
+Colaboradores (potenciales)
+- Excursiones Bosa
+- Le Mistral Due en Oristano
+- Sr. Zucca, recepcionista de Mistral Due.
+
+Itinerario:
+8.00: Salida del hotel "Mistral Due" ubicado en Oristano
+10.00: Llegada a las Cuevas de Is Janas. La visita guiada al lugar tiene una duración aproximada de 2 horas.
+12.30: Llegada a Ristorante Mamulada.
+14.00: Salida del restaurante en dirección Bosco Seleni.
+Se requiere un mínimo de 2 horas para la visita del parque arqueológico.
+5.30 p.m.: Salida del parque en dirección a Jerzu Poderi, reconocido comerciante de vinos.
+18.00 horas: Visita guiada y cata de vinos
+19.30: Regreso a Mistral Due y llegada programada entre las 21.00 y las 21.30
+
+<h1> Itinerario gastronómico en la provincia de Nuoro (A) </h1>
+Esta ruta en autocar lo lleva desde la provincia de Oristano a la provincia de Nuoro, una región alterna
+cordilleras y valles.
+Esta provincia, como todas las regiones de Cerdeña, ha conservado sus propias especialidades, inspiradas en
+tradiciones culinarias. Las tradiciones campesinas permanecen muy vivas allí.
+Para saborear y hacerte tu mismo
+- Laboratorio de sabor de Cerdeña en Atzara
+
+A visitar
+- Fordongianus:
+o baños romanos
+o casa aragonesa
+o anfiteatro romano
+
+Organizador
+Sr. Beugnies Alexandre
+Colaboradores (potenciales)
+- Excursiones Bosa
+- Le Mistral Due en Oristano
+- Sr. Zucca, recepcionista de Mistral Due.
+Itinerario:
+9.00: Salida del hotel "Mistral Due" ubicado en Oristano.
+10.00: Llegada a los baños romanos y anfiteatro de Fordongianus. Visitar el lugar requiere
+alrededor de 2 horas.
+12.00 / 12.30: Salida de los baños termales hacia el laboratorio de sabor de Cerdeña
+13.00 / 13.30: Llegada al "Laboratorio del gusto" las diferentes experiencias y degustaciones duran 5
+horas aproximadamente
+18.00 / 18.30: Regreso a Mistral Due en Oristano
+19.30 / 20.30: Llegada al hotel
+
+<h1> Itinerario gastronómico en la provincia de Nuoro (B) </h1>
+Esta segunda ruta en la provincia de Nuoro permitirá a los turistas conocer el
+agricultores locales y el descubrimiento de otras riquezas, culturales o históricas, de esta región.
+Probar
+- Agriturismo Costiolu en Barbagia di Ollolai
+
+A visitar
+- Parco archeologico Biru e 'Concas en Sorgono
+- Murales de Tinnura
+
+Organizador
+Sr. Beugnies Alexandre
+Colaboradores (potenciales)
+- Excursiones Bosa
+- Le Mistral Due en Oristano
+- Sr. Zucca, recepcionista de Mistral Due
+
+Itinerario:
+9.00: Salida del hotel "Mistral Due" ubicado en Oristano
+10.00: Llegada al parque arqueológico Biru e ‘Concas en Sorgono. Se necesitan dos horas para
+disfruta de la visita al sitio
+12.00 / 12.30: Salida del parque hacia el Agriturismo Costiolu ubicado en Ollolai. Una buena hora
+de camino es necesario para llegar al lugar donde los turistas pueden disfrutar de la gastronomía y
+El saber hacer de Cerdeña.
+17.00: Salida del Agriturismo Costiolu hacia Tinnura para admirar los frescos.
+murales.
+18.00 / 18.30: Regreso al hotel
+19.00 / 19.30: Llegada a Mistral Due en Oristano
+
+<h1> Ruta gastronómica en la provincia de Oristano </h1>
+Esta ruta comienza con una caminata que lleva a los turistas desde el Hotel Mistral debido a la
+centro histórico de Oristano, lugar lleno de historia donde nació la gran Eleonora de Arborea,
+como Juana de Arco, luchó contra los invasores españoles.
+El resto de la excursión, en autocar, permitirá al turista conocer una provincia
+donde el agua juega un papel importante (ríos, lagos y estanques).
+
+Para degustar (y visitar)
+- Quesos de Cerdeña en CAO Formaggi
+- Ittiturismo Sa Pischera ‘e Mar’ e Pontis en Cabras
+- Granja Educativa en Tramatza
+A visitar
+- Parco Paleontologico Dinosardo
+- IS Arutas (playa)
+- Sitio arqueológico de Tharros
+Organizador
+Sr. Beugnies Alexandre
+Colaboradores (potenciales)
+- Excursiones Bosa
+- Le Mistral Due en Oristano
+- Sr. Zucca, recepcionista de Mistral Due.
+
+Itinerario:
+9.00: Salida del hotel Mistral ubicado en Oristano. Esta visita se realiza a pie, el centro histórico está
+ubicado no lejos del hotel.
+9.15: Llegada al centro histórico de Oristano. La visita al lugar dura aproximadamente una hora. El bus y
+esperará a los turistas
+10.30: El autocar sale del centro histórico en dirección al parque paleontológico Dinosardo
+11.00: Llegada al parque. Los turistas necesitan alrededor de una hora y media para apreciar el
+riquezas históricas del lugar.
+12.30: Llegada a CAO Formaggi donde los turistas pueden degustar y / o comprar varios quesos.
+Sardos.
+13.30: Salida de la cooperativa hacia Ittiturismo sa Pischera e 'Mar' e Pontis ubicado aproximadamente
+15 minutos en autocar desde Formaggi CAD.
+14.00: Visita de la piscifactoría y posibilidad de catering para los turistas que lo deseen
+16.00: Salida hacia la playa de Is Arutas, ubicada en el Golfo de Oristano.
+17.00: Los turistas salen de la playa para dirigirse en autocar a la finca educativa ubicada en Tramatza.
+18.00: Salida de la finca hacia el sitio arqueológico de Tharros.
+18.30 / 18.45: Llegada al sitio de Tharros y visita del lugar. Posibilidad de quedarse hasta el cierre
+programado para las 20.00 horas.
+20.00: Regreso al Mistral Due.
+20.30 / 21.00: Llegada al hotel en Oristano.
+
+--- Actividades deportivas-----
+
+<h1> Buceo </h1>
+
+<p> Buceo: Los viajes de buceo a lugares maravillosos, cerca de la costa o en mar abierto, te harán descubrir el entorno submarino multicolor, rico en restos de naufragios de varias épocas.
+foto de buceo </p>
+
+<h1> Surf / windsurf / kitesurf </h1>
+
+<p> El lugar de Capo Mannu ha sido llamado "el Hawái del Mediterráneo".
+Ubicado a pocos kilómetros del Hotel la Baja y del camping Nurapolis, ofrece la posibilidad de practicar estos tres tipos de deportes acuáticos para jugar con el viento y las olas.
+foto de surf </p>
+
+<h1> Bicicletas </h1>
+
+<p> Numerosos cursos y senderos que serpentean literalmente rozando la costa o sumergiéndose en los magníficos paisajes montañosos.
+Bicicleta </p>
+
+<h1> Escalada </h1>
+
+<p> La provincia de Oristano es conocida por los aficionados a la escalada por su variedad de tipos de paredes para practicar.
+No muy lejos del hotel y del camping, cerca de las excavaciones arqueológicas de Cornus del siglo VI a.C., hay varias rutas de escalada.
+Esto es lo que Maurizio Oviglia, uno de los principales expertos en escalada en Cerdeña, escribe en el sitio web de Planet Mountain: "La región de Santa Caterina di Pittinuri ya es conocida por la belleza de las playas, lo es menos. Debido a la pequeña acantilados de basalto, escondidos en los pliegues de Monti Ferru.
+Estos no son, como dije, grandes acantilados obvios, sino pequeñas crestas escondidas en barrancos, que proporcionan un ascenso intensivo que rara vez alcanza los 20-25 metros.
+Por lo tanto, tiene sentido que los escaladores locales a menudo asocian la escalada en roca con el búlder.
+Efectivamente, los dos acantilados que ofrecemos tienen cada uno, además del acantilado, su zona de escalada. “Actualmente, hay 49 rutas disponibles en dos sectores con una gran mayoría de puntajes entre 5 y 6.
+fotos de escalada </p>
+
+<h1> Golf </h1>
+
+<p> Un campo de golf de 18 hoyos (par 72) se encuentra a pocos kilómetros del hotel y del camping.
+El campo fue diseñado por los reconocidos arquitectos estadounidenses Von Hagge, Smelek y Baril, quienes introdujeron los 18 hoyos en las dunas naturales que caracterizan la zona, creando uno de los campos más espectaculares de Europa, tanto desde el punto de vista técnico como desde el paisaje. Punto de vista.
+foto de golf </p>
+
+<h1> Pesca </h1>
+
+<p> En esta parte de la provincia de Oristano, es posible pescar en todas sus variantes gracias a la presencia del patrimonio marino y las cooperativas pesqueras.
+En la extensa playa de Is Arenas, prácticamente la playa del Camping Nurapolis, practicamos surf casting y la playa a menudo organiza competencias regionales y nacionales.
+Varias empresas del sector ofrecen la posibilidad de realizar la pesca en el mar, una experiencia apasionante.
+A bordo de los barcos de pesca locales, participe de su pesca tradicional y pase hermosas bahías e islotes, podrá degustar platos locales elaborados con pescado fresco.
+pesca </p>
+
+<h1> Trekking </h1>
+
+<p> Si te gusta el senderismo o la marcha nórdica, has venido al lugar indicado.
+Entre mar y montaña, decenas de senderos y caminos te harán descubrir los rincones más bellos de nuestro territorio.
+Serpenteantes senderos a lo largo del mar hasta playas y calas de difícil acceso.
+Los senderos, generalmente hechos por animales, lo llevan a una altitud de 1050 metros, donde se pueden admirar paisajes impresionantes después de pasar por densos bosques primarios donde no es raro encontrarse con borregos cimarrones y jabalíes.
+Foto de trekking </p>
+
+<h1> Equitación </h1>
+
+<p> La provincia de Oristano tiene una larga tradición en la cría de caballos, de ahí la abundancia de paseos que organizan paseos, ferias de ganaderos y sobre todo fiestas y carreras donde los jinetes pueden mostrar su orgullo y valentía.
+Cabalgar por los estanques donde viven los flamencos es una experiencia única.
+Foto ecuestre </p>
+
+<h1> Motocross </h1>
+
+<p> Hay una pista de motocross a tiro de piedra del hotel y del camping en las dunas del antiguo desierto de Is Arenas, que fue el desierto de arena más grande de Europa hasta mediados de la década de 1950.
+El campo es único, técnico y emocionante y el clima es ideal en todas las estaciones. Incluso en la temporada de lluvias, el fondo arenoso proporciona un excelente drenaje.
+Numerosos equipos, nacionales e internacionales, frecuentan esta pista que les resulta excepcional </p>
+
+--- Eventos ---
+
+SANTU ANTONI DE SU FOGU / SAINT ANTHONY L’ABBE
+Este festival se celebra entre el 16 y el 17 de enero. Ella es de origen precristiano e incluye
+todas las funciones religiosas así como el encendido y bendición de la hoguera.
+Está iluminado en todo
+pueblos de la provincia, con
+diferentes características en
+dependiendo de donde este
+posarse. Puede ser alto o
+pequeño y nos quemamos enorme
+pila de troncos de árboles enteros
+transportado por cables en
+colocar y prenderle fuego.
+En muchas ciudades, esta
+coincide con la apertura de la
+carnaval. Durante esto
+ocasión se preparan "sa panischedda" o "su pani de saba". Estos son postres
+productos típicos elaborados a base de "sapa" (almíbar dulce de uva).
+
+
+
+CARRASEGARE / CARNAVAL
+El carnaval en la provincia de Oristano es muy variado. De hecho, las tradiciones han sobrevivido y nosotros
+A menudo encontramos, en estos carnavales, tradiciones muy antiguas como los juegos
+Danzas ecuestres, tradicionales y máscaras ancestrales. Por supuesto, podemos encontrar
+platos culinarios y postres exclusivos propios de estos eventos.
+Bien conocido por su particularidad, Su Carrasegare Osincu en Bosa comienza el jueves de carnaval.
+Los espectadores participan en este festival desde el martes de carnaval. Muy temprano en la mañana, los participantes
+(hombres y mujeres) visten ropas tradicionales y celebran el rito de Atitidu
+(lamentaciones fúnebres). Por la noche todos van vestidos de blanco. Este carnaval representa
+alegoría del sexo.
+En Ghilarza, penúltimo domingo de Carnaval, celebración de una antigua costumbre
+reaparece todos los años. Los residentes que usan lentzolu mascheras (máscaras
+hecho con ropa de cama blanca) y burrones (hombres en traje tradicional negro y
+rostros pintados con corcho quemado) bailan tanto en las calles como en el centro histórico
+de la ciudad. Sas màscheras zoomorfas antigas (antiguo ritual enmascarado) tiene lugar en las calles
+de: Neoneli sos Corriolos, en Cuglieri sos Cotzulados, en Ula Tirso sos Urtzos y sos Bardianos, en
+Samugheo sos Mamutzones, en Paulilatino sos Corrajos, en Laconi Su Corongiaiu.
+Los juegos ecuestres siguen siendo una tradición conservada que se remonta a varios siglos. El más conocido
+es el de Oristano, Sa Sartiglia, es una tradición medieval. En este día un
+ceremonia increíble dirigida por su Cumpinadori (un semidiós andrógino) que controla el
+carrera organizada por la corporación (Gremi) de agricultores y carpinteros. La carrera tiene lugar p
+Martes de Carnaval y último domingo de Carnaval. En esta carrera, deben recuperarse
+estrellas colgando a lo largo del camino con sus espadas.
+En Santulussurgiu, celebramos su Carrela ‘e nanti, una carrera de caballos, donde los caballos
+galopar por las estrechas y sinuosas calles del pueblo. En Sedilo, en Paulalitino y en varios
+En otros pueblos de la provincia se lleva a cabo la tradicional cursa a sa pudda, donde los jinetes deben
+Recoge los trozos de una gallina de tela en el camino.
+Los bailes tradicionales son muy habituales durante estas festividades. Ellos caracterizan el
+Carnaval de Cerdeña. En varios lugares de la provincia, se acompañan del sonido de un
+órgano, acordeón o las voces de los hombres de cuntratos y cuncordos. En Seneghe, el
+la gente baila su partza de sos ballos que tiene lugar todos los domingos y comienza el
+Domingo en San Sebastián. Mardi Gras, su Martis de coa, es el día de sas andantzas.
+
+Por la mañana, bailarines vestidos con trajes tradicionales bailan en la plaza del pueblo según
+una coreografía particular que se asemeja a una estrella. En aquellos días, en Aidomaggiore, el
+se baila cointrotza. Una larga fila de bailarines dibuja círculos y espirales siguiendo
+Figura 2 Sa Sartiglia Figura 1 Carrasegare Osincu
+
+
+el ritmo de la música tocada por el acordeón diatónico5, el triángulo y su tumbarinu
+(tambor local y tradicional). En Marrubiu tiene lugar su Marrulleri, famoso desfile de
+grupos de personas enmascaradas.
+
+CHIDA SANTA / SEMANA SANTA
+En la provincia de Oristano, los ritos de Semana Santa representan un momento de
+religiosidad profunda. Las ceremonias se llevan a cabo en todas las regiones. En los últimos años
+El turismo religioso se ha desarrollado allí cada vez más. Lo más llamativo son los ritos
+practicado en Cuglieri, Santulussurgiu y Scano di Montiferro. En la mayor parte de la provincia,
+el Domingo de Resurrección tiene lugar la procesión de la palmera entrelazada artísticamente.
+Las cofradías son las protagonistas de los ritos litúrgicos y paralitúrgicos entre los que destacamos
+encuentra, s Iscravamentu, el depósito de Cristo
+muerte en la cruz, e Incontru, el encuentro
+con la resurrección del hijo de la Virgen María.
+Estos eventos van acompañados de
+el repertorio tradicional de canciones sagradas
+Sardo y latín, interpretado por cuatro voces
+macho de su cuncordu o cuntzertu.
+
+5 Acordeón diatónico: acordeón con diferentes hojas para producir un sonido diferente (ya sea en
+empujando y tirando del fuelle), a diferencia de un acordeón cromático.
+Figura 3 Sos Mamutzones
+
+
+
+ARDIA DE SEDILO / ARDIA DE SEDILO
+En julio, uno de los festivales más bellos y famosos de Cerdeña llamado Ardia se celebra en
+Sedilo. Durante siglos, cientos de ciclistas han participado en una carrera. La noche de
+El 6 de julio y la mañana del 7 de julio, en honor a San Constantino, los jinetes vestidos con
+el hábito del emperador o del caballero reproduce la batalla entre Constantino y Majencio,
+la batalla de Ponte Milvio (312 d.C.). La carrera está dirigida por un líder, su prima pandela,
+seguido de otros dos jinetes, Segunda y Tertza Pandela, así como guardias, que
+representan a Constantino y su ejército y al otro Majencio y su ejército.
+
+REGATA DE IS FASSONIS / REGATTA DE IS FASSONIS
+Un domingo de verano, todos los años, en la piscina de Santa Giusta, ubicada en el Golf
+de Oristano tiene lugar la regata de Is Fassonis, un antiguo barco de las marismas elaborado con
+tallos de juncos y briznas de hierba. Muy parecido a la balsa peruana, el barquero del Is Fassonis,
+quien debe permanecer de pie, mueve su bote hacia adelante con un remo largo.
+
+SANTA MARIA DE MARE / SANTA MARIA DEL MAR
+En Bosa, el primer domingo de agosto se celebra a Santa María del Mar. Barcos de
+pesca con decoración festiva a lo largo del río Temo (el único río navegable de Cerdeña),
+uno de ellos portando la estatua de la Virgen de la iglesia del pueblo costero de Santa María de
+del mar a la Catedral de la Virgen Inmaculada. También en agosto, en Marceddi,
+pueblo de pescadores situado a lo largo de la costa de la localidad de Terralba, se celebra una procesión en
+el mar con barcos con bandera, arrojando flores. Uno de ellos representa
+un naufragio en memoria de los que murieron en el mar.
+
+
+
+SARTIGLIEDDA
+En Torregrande, el día de la asunción, se celebra los pueblos costeros de la provincia de Oristano
+en verano la Sartigliedda que se hace cargo de todas las fases de Sa Sartiglia: ropa para
+Cumponidoreddu, la carrera estrella y las acrobacias a caballo. Los protagonistas son
+niños.
+
+SANTU INNATZIU DE LACONI / SAINT IGNATIUS DE LACONI
+En Laconi se celebra a Fra ‘Innàtzu (1701-1781), patrón de la provincia de Oristano.
+La procesión tiene lugar el 31 de agosto y asisten miles de peregrinos. Varios grupos
+Allí se dan cita el folclore y las fraternidades de diferentes puntos de la isla. Puedes visitar el museo de
+Menhir y Aymerich Park, donde tendrás la oportunidad de admirar los restos de un
+
+
+Castillo medieval. El parque es un oasis de vegetación de 22 hectáreas, que comprende
+magníficas especies de plantas y cascadas.
+
+ISCURTZOS DE SANTU SARBADORI / LOS CORREDORES DESCALZOS DE SAN
+SALVATORE
+En los pueblos rurales de Cabras y San Salvatore, el primer sábado de septiembre, el
+correr descalzo, un ritual que se repite cada año durante 5 siglos, que recuerda a la invasión
+de los Sarazins. Cientos de hombres en todo el país, vestidos con túnicas, corren descalzos vistiendo
+la estatua del Salvador de Cabras a la iglesia rural. A su vez, dos corredores llevan la
+sedán con la estatua del Santo, a lo largo de un camino de polvo. Nadie puede adelantar.
+Cada cien metros, los que llevan la estatua cambian de lugar con otros.
+El domingo vuelve la estatua
+en Cabras de la misma manera.
+El primer día de la novena
+mujeres vestidas
+tradicionalmente y descalzo,
+haz lo mismo pero
+llevar una pequeña estatua de
+Santo dejando el campo
+a San Salvatore y
+luego regrese a Cabras.
+
+
+NOSTRA SENNORA DE SU RIMEDIU / NUESTRA SEÑORA DEL REMEDIO
+El ocho de septiembre se celebra en Donigala Fenughedu, Nuestra Señora del Remedio, fiesta
+especialmente para las comunidades de la provincia y la isla de Cerdeña. El número de
+fieles que van al santuario para participar en todas las misas litúrgicas. Después de la
+celebraciones religiosas, muchos peregrinos permanecen en el patio de la iglesia en el
+específico donde pueden comer cochinillo asado, salmonetes y anguilas, mostaccioli y
+turrón y puede beber vino de Vernaccia.
+NOSTRA SENNORA DE BONACATU / NOTRE DAME DE BONACATU
+Los días dieciocho y diecinueve de septiembre en Bonarcado se celebra la fiesta de Nuestra Señora de
+Bonacatu. El templo de Madonna di Bonacatu es uno de los más antiguos de la isla, que data de
+Siglo VI d.C. La iglesia románica anexa a este templo data del siglo XIII.
+siglo y fue construido por Camaldolese. Los registros de este templo fueron elaborados en
+Sardos y representan la principal fuente de historia medieval en la provincia de Oristano.
+En la tarde del día 18, varios fieles y congregaciones participan en la
+Procesión cantando el Rosario en Cerdeña.
+SAS FESTAS EN SOS NOVENARIOS / FIESTAS RURALES
+Desde abril / mayo hasta octubre en toda Cerdeña, en varias iglesias de
+campaña, se celebran fiestas. Casi todos duran entre nueve y diez días. Todos los
+los participantes se mudan a una casa para asistir a servicios religiosos, a menudo en el idioma
+Sardo y perpetuando los ritos antiguos. Durante estos días, los pequeños pueblos cobran vida gracias a
+entretenimiento y espectáculos de diversa índole, almuerzos comunitarios o
+cenas y cumbidos, postres y bebidas ofrecidas a los participantes. La novena de San
+Seraphim cierra la larga agenda de fiestas de campaña en la provincia. A partir de
+Jueves antes del tercer domingo hasta la mañana del último domingo de octubre, a las
+Ghilarza, cerca del lago Omodeo, se celebra al Arcángel Rafael. La iglesia medieval es
+popular. Allí se puede admirar un bajorrelieve del escudo de armas del árbol arrancado de Arborea, que es
+se convirtió en el símbolo de la provincia de Oristano.
+
+---Artes y manualidades----
+
+<h1> Tessingiu / tejido </h1>
+
+<p> En Mogoro y Samugheo, es posible visitar muchos talleres de tejido y comprar alfombras, manteles, cortinas, mantas, sábanas, alforjas y mucho más.
+Los dos centros invierten mucho en el sector y organizan cada año, entre julio y agosto, el primero, la feria de alfombras, el segundo, la exposición de artesanía sarda - Tessingiu.
+Con técnicas de 'a pibiones' (estilo flor o erizo) y tejido plano con trama visible, se producen trabajos que conservan tanto las decoraciones como los patrones tradicionales y ofrecen colores y patrones modernos.
+En Samugheo puede visitar el Museo Regional de Artesanía de Tejido de Cerdeña (MURATS)
+Alfombra sarda </p>
+
+<h1> Tzeràmica / Cerámica </h1>
+
+<p> Una vez famosa por la producción de jarrones, cántaros, platos y otras vasijas de cerámica, Oristano, con las producciones artísticas de sus alfareros, sigue siendo una "ciudad de cerámica".
+Hoy en día, los artesanos transforman modelos tradicionales en obras de arte de gran valor e inventan nuevos objetos adaptados a las necesidades modernas.
+cerámica </p>
+
+<h1> Gurteddu / Cuchillos </h1>
+
+<p> La artesanía sarda tiene una importante tradición ligada al procesamiento de cuchillos, en particular resorzas, muy populares entre los turistas y cuyo uso todavía está muy extendido en Cerdeña.
+Gracias a la destreza y al saber hacer de los artesanos de Santu Lussurgiu, los metales y los cuernos se transforman en cuchillos de una belleza excepcional, elegantes objetos forjados en modelos típicos de Santu Lussurgiu. </p>
+
+<h1> Istèrgios de fenu e a intrizu / Canastas </h1>
+
+<p> Esta actividad artesanal, principalmente a nivel doméstico, se caracteriza por diferentes tipos en diferentes puntos de la provincia.
+Además de los productos que todavía se utilizan a diario en el hogar y en el trabajo, que reproducen patrones y decoraciones tradicionales, el arte de la cestería también ha permitido en los últimos años producir un ejemplo artístico contemporáneo.
+Con el enredo de juncos, sauces, mirtos y lentiscos se producen cestas de diversos tamaños, utilizadas principalmente para el transporte de frutas y verduras.
+En Flussio y los pueblos vecinos del norte de la provincia, los tallos de asfódelo se utilizan para hacer cestas y otros artículos.
+En los días de primavera y verano, la exposición de trabajos frente a las casas de los artesanos transforma las calles de estos pueblos en atractivos mercados.
+En San Vero Milis, tejiendo pastos de marisma, te sale trabajo rasgos artísticos caracterizados por la presencia de rojo o negro. </p>
+
+--- Comida ---
+
+Durches / Postres
+
+Durante el año, se elabora una larga lista de postres según recetas ancestrales, acompañando celebraciones privadas y tradicionales: su panischedda à la Saint Anthony, sas pardulas para Semana Santa; sos pabassinos para la fiesta de los muertos; así como diversas tortas fritas para carnaval, entre ellas las sas tzipulas son las más conocidas y las más apreciadas.
+Miel, nueces, sapa, requesón, huevos, harina (todos productos locales) son los ingredientes principales en su preparación.
+Se le da un gran lugar a las almendras dulces; marigosos, candelaos, guefos, turronetos, germinos y otros.
+Particularmente ligado a ocasiones importantes como bautizos, comuniones o incluso una boda.
+Sas Pardulas
+Sas Tzipulas
+Casu / Queso
+
+En un territorio ligado (económica y culturalmente) a la agricultura, especialmente en la cría de ganado ovino y bovino, el queso es una de las producciones más importantes.
+Entre los más famosos se encuentran Fiore Sardo DOP y Pecorino Sardo DOP, o un queso más aromático y salado; ricotta, utilizada en la preparación de platos como culurgiones, ravioles o incluso postres.
+Casigiolu con su característica forma de pera elaborado con leche de vacas de Modican Sardo y bruno de Cerdeña, un queso que se puede comer fresco o añejado.
+Un presidium de comida lenta protege la producción de Casizolu de Montiferru.
+Casigiolu
+Pan / Pan
+
+En Cerdeña, el pan no solo es importante para el uso diario, sino que continúa tomando forma y significado durante los rituales o festividades de la cultura antigua, en muchas ciudades no es trivial oler el pan horneado en el horno. Horno, el pan varía según las estaciones o el consumo de semanas ordinarias o extraordinarias de las vacaciones.
+El pan se convierte en una obra artística, de imponente belleza durante las grandes fiestas litúrgicas y patronales del Santo, se envuelve de multitud de variantes, de diferentes tipos de pan durante las ceremonias entre las que se encuentran su cocoi de pramma, preparado para el Domingo de Ramos: un trozo de grandes hebras de pasta decoradas con flores de pan o almendras, y su cocoi de angulla y su cocoi cun s'ou, preparadas para Semana Santa, de diferentes formas, la más utilizada es la paloma con un huevo y su cáscara.
+Su Coccoi
+
+
+
+Malvasia
+
+La provincia de Oristano tiene una larga tradición en la producción de vinos robustos de alta calidad con un contenido de alcohol relativamente alto.
+Uno de los más famosos y apreciados es Malvasia de Bosa, un vino blanco, elaborado en las localidades de Bosa, Flussio, Magomadas, Modolo, Tinnura, Tresnuraghes y Suni.
+Este vino tiene un aroma intenso y un sabor delicado y seco con un regusto amargo.
+Malvasía envejecida en barrica a la que se le añade levadura de flor, va bien con dulces elaborados a base de almendras, vinos jóvenes, hasta los tres años se puede consumir como aperitivo.
+Granatza / Vernaccia
+
+Vernaccia d'Oristano es un vino de color ámbar amarillo con sabor a almendras, que alcanza un grado alcohólico de entre quince y dieciséis grados y se puede beber frío como aperitivo o para acompañar un plato a base de pescado, o un queso ahumado o especiado.
+Se obtiene mediante un proceso natural de oxidación mediante el trabajo de una determinada levadura, y con una crianza de tres o cuatro años en roble o castaño sin rellenar completamente, podemos obtener este producto único y distintivo.
+Es excelente como vino de postre, especialmente con los postres dulces de almendra típicos de Cerdeña.
+Los viñedos de Vernaccia se encuentran en Baratili San Pietro, Cabras, Milis, San Vero Milis, Narbolia, Nurachi, Ollastra, Oristano, Palmas Arborea, Riola Sardo, Santa Giusta, Siamaggiore, Simaxis, Solarussa, Tramatza, Zeddiani, Zerfaliu.
+Binu / Vino
+
+La producción de vino es de gran importancia para el territorio de la provincia.
+Entre estos, un lugar importante lo ocupan los vinos A.O.C. de Arborea: Trebbiano y Sangiovese; Bovale Sardo en Campidano de Terralba; Cannonau, presente en toda la región, y en particular Semidano y Monica, cepas presentes en particular en el territorio de Mogoro y Marmilla.
+Los vinos D.O.C de la provincia también son Malvasia di Bosa, Mandrolisai, Monica di Sardegna, Semidano y Vernaccia di Oristano.
+Los vinos de IGT son: Isla Nuraghe, Marmilla, Planargia, Tharros.
+
+
+Pasta / Pasta
+
+Con sémola de trigo duro se preparan diferentes tipos de pasta, entre ellos malloredos, bolitas, típicas de toda Cerdeña, a menudo aromatizadas con azafrán, y lorighitas, se tejen dos hebras de pasta cerrada para formar pequeños anillos de forma alargada, típicos del pueblo de Morgongiori.
+En las recetas más tradicionales, los malloredos y lorighitas, se condimentan con salsa de tomate con carne o chorizo ​​y pecorino rallado.
+Fregula, similar al cuscús pero más grande, se prepara mojando la harina de sémola con un poco de agua y amasando con un movimiento circular de las manos en el fondo de una palangana de barro.
+Con las pequeñas esferas se obtienen sopas y platos similares al risotto, condimentados de diversas formas, especialmente con almejas.
+Los culurgiones son ravioles rellenos de queso fresco o ricotta y acelgas o patatas, condimentados con salsa de tomate y carne y mucho pecorino rallado.
+Culurgiones
+Fregula
+Pische / Peces
+
+Se preparan sofisticadas recetas con pescado del mar y de las lagunas de la provincia de Oristano; lubina con Vernaccia, bogavante, burrida; y se preparan asados ​​que dan sabor y aroma a las diferentes fiestas de los pueblos: no es baladí en estas ocasiones, poder comprar y degustar anguilas y salmonetes asados ​​en asador, asados ​​en las calles y en lugares durante celebraciones.
+Entre los productos relacionados con el pescado los mejores son la bottarga, salmonete en salmuera, prensado y secado por los pescadores de Cabras.
+Es bueno comerlo en rodajas, aderezado con un chorrito de aceite de oliva virgen extra, o combinado con diversas verduras como alcachofas y apio.
+Rallado, condimenta platos salados como espaguetis, rúcula con alcachofas y otros.
+Petza / Carne
+
+El cochinillo asado es el plato festivo más famoso y popular de la isla. La forma más tradicional de cocinarlo es asarlo al asador, también se puede hornear o asar sobre leña, se acompaña de hojas de arándano que le da un sabor diferente.
+También podemos encontrar cordero, que se puede asar, al asador o al horno, o guisado con alcachofas o patatas.
+Entre los platos más característicos encontramos; Cabezas asadas, vísceras cocidas de diferentes recetas y su corda (hecha entrelazando los intestinos), piernas con salsa.
+En el norte de la provincia se crían en libertad dos razas de ganado; el Sardo Modicana, más conocido como Bue Rosso (ternera roja, caracterizado por su color), y el Sardo Bruna, conocido como Melina, el color de su pelaje color miel.
+La primera raza es una manada de Montiferru que se convierte en un Presidium Slow Food (producto protegido).
+El segundo vive en la meseta de Abbasanta.
+Se pueden cocinar de diferentes formas como asados, hervidos, transformados en bolas (sas bombas) o spezzatino (en cassola o ghisadu).
+
+--- Productos locales----
+
+Artes y manualidades
+Comida 
+
+-----It------
+
+--- Casa ------
+<h1> Su Viaggiu Sardu </h1>
+<h2> Oristano </h2>
+
+<p> Ciao e benvenuto nel nostro sito Su Viaggiu Sardu.
+Siamo un'agenzia di viaggi e abbiamo creato questo sito per promuovere
+turismo enogastronomico nelle province di Oristano, Ogliastra e Nuoro.
+Qui troverai diversi tour, eventi, ristoranti e molto altro.</p>
+
+
+
+<div class = "form" style = "width: 600px; padding-top: 10px; padding-bottom: 10px; border: 3px solid # A0A0A0; text-align: center; background: linear-gradient (90deg, rgba (255 , 255, 255, 0) 0%, RGB (255, 255, 255, 0,2) 25%, RGB (255, 255, 255, 0,2) 75%, RGB (255, 255, 255, 0) 100%); ; "> Iscriviti alla nostra mailing list <br />
+Non perderti nessuna novità <br />
+<form action = "" method = "get" class = "form-example">
+<div class = "form-example">
+<label for = "name"> Inserisci il tuo nome: </label>
+<tipo di input = "testo" nome = "nome" id = "nome" richiesto>
+</div> <br />
+
+<div class = "form-example">
+<label for = "email"> Inserisci la tua email: </label>
+<tipo di input = "email" name = "email" id = "email" richiesto>
+</div> <br />
+
+<div class = "form-example">
+<input type = "submit" value = "Subscribe Now">
+</div> <br />
+</form>
+</div>
+
+--- visite ----
+
+<h1> Itinerario gourmet in provincia di Ogliastra </h1>
+Un percorso gastronomico di circa 422 chilometri che unisce visite a produttori locali e
+turismo culturale e storico.
+Questa provincia è la meno popolata di tutta Italia. La natura è lì, quindi, molto preservata.
+Questo ci offre paesaggi ricchi e vari.
+Il percorso ci permetterà di assaporare la cucina familiare oltre ad alcuni buoni vini prodotti in
+provincia d'Ogliastra.
+Assaggiare
+- Cucina familiare al Ristorante Mamulada a Seui
+- Vini all'Enoteca Jerzu Antichi Poderi
+Visitare
+- Grotta di Is Janas (Grotta delle fate) a Sadali
+- Parco Archeologico e Naturalistico del Bosco Seleni
+Organizzatore
+Mr. Beugnies Alexandre
+Collaboratori (potenziali)
+- Bosa Tours
+- Le Mistral Due ad Oristano
+- Sig. Zucca, receptionist di Mistral Due.
+
+Itinerario :
+8.00: Partenza dall'hotel "Mistral Due" situato ad Oristano
+10.00: Arrivo alle Grotte di Is Janas. La visita guidata del luogo dura circa 2 ore.
+12.30: Arrivo al Ristorante Mamulada.
+14.00: Partenza dal ristorante in direzione Bosco Seleni.
+Per la visita del parco archeologico è richiesta una durata minima di 2 ore.
+17.30: Partenza dal parco in direzione di Jerzu Poderi, rinomato commerciante di vini.
+18:00: Visita guidata e degustazione di vini
+19.30: Rientro a Mistral Due e arrivo previsto tra le 21.00 e le 21.30
+
+<h1> Itinerario gourmet in provincia di Nuoro (A) </h1>
+Questo percorso in pullman ti porta dalla provincia di Oristano alla provincia di Nuoro, una regione alterna
+catene montuose e valli.
+Questa provincia, come tutte le regioni sarde, ha conservato le proprie specialità, ispirate al
+tradizioni culinarie. Le tradizioni contadine vi rimangono molto vive.
+Da gustare e farsi
+- Laboratorio del Gusto Sardo ad Atzara
+
+Visitare
+- Fordongiano:
+o terme romane
+o casa aragonese
+o Anfiteatro Romano
+
+Organizzatore
+Mr. Beugnies Alexandre
+Collaboratori (potenziali)
+- Bosa Tours
+- Le Mistral Due ad Oristano
+- Sig. Zucca, receptionist di Mistral Due.
+Itinerario :
+9.00: Partenza dall'hotel "Mistral Due" situato ad Oristano.
+10.00: Arrivo alle terme romane e all'anfiteatro di Fordongianus. Visitare il luogo richiede
+circa 2 ore.
+12.00 / 12.30: Partenza dalle terme verso il Sardinian Taste Lab
+13.00 / 13.30: Arrivo al "Laboratorio del gusto" le diverse esperienze e degustazioni durano 5
+ore circa
+18.00 / 18.30: Ritorno al Mistral Due di Oristano
+19.30 / 20.30: Arrivo in hotel
+
+<h1> Itinerario gourmet in provincia di Nuoro (B) </h1>
+Questo secondo itinerario in provincia di Nuoro permetterà ai turisti di incontrare i
+agricoltori locali e la scoperta di altre ricchezze, culturali o storiche, di questa regione.
+Assaggiare
+- Agriturismo Costiolu in Barbagia di Ollolai
+
+Visitare
+- Parco archeologico Biru e 'Concas a Sorgono
+- Murales di Tinnura
+
+Organizzatore
+Mr. Beugnies Alexandre
+Collaboratori (potenziali)
+- Bosa Tours
+- Le Mistral Due ad Oristano
+- Sig. Zucca, receptionist Mistral Due
+
+Itinerario :
+9.00: Partenza dall'hotel "Mistral Due" situato ad Oristano
+10.00: Arrivo al parco archeologico di Biru e' Concas a Sorgono. Sono necessarie due ore per
+godetevi la visita del sito
+12.00 / 12.30: Partenza dal parco verso l'Agriturismo Costiolu situato ad Ollolai. Una buona ora
+di strada è necessaria per raggiungere il luogo dove i turisti possono gustare la cucina e
+Sapere sardo.
+17.00: Partenza dall'Agriturismo Costiolu verso Tinnura per ammirare gli affreschi
+murales.
+18.00 / 18.30: Rientro in hotel
+19.00 / 19.30: Arrivo al Mistral Due di Oristano
+
+<h1> Itinerario gourmet in provincia di Oristano </h1>
+questo percorso inizia con una passeggiata che porta i turisti dall'Hotel Mistral Due al
+centro storico di Oristano, luogo ricco di storia dove nacque la grande Eleonora d'Arborea,
+come Giovanna d'Arco, combatté contro gli invasori spagnoli.
+Il resto dell'escursione, in pullman, permetterà ai turisti di conoscere una provincia
+dove l'acqua gioca un ruolo importante (fiumi, laghi e stagni).
+
+Da gustare (e da visitare)
+- Formaggi sardi al CAO Formaggi
+- Ittiturismo Sa Pischera ‘e Mar’ e Pontis a Cabras
+- Fattoria Didattica a Tramatza
+Visitare
+- Parco Paleontologico Dinosardo
+- IS Arutas (spiaggia)
+- Sito Archeologico di Tharros
+Organizzatore
+Mr. Beugnies Alexandre
+Collaboratori (potenziali)
+- Bosa Tours
+- Le Mistral Due ad Oristano
+- Sig. Zucca, receptionist di Mistral Due.
+
+Itinerario :
+9.00: Partenza dall'hotel Mistral situato ad Oristano. Questa visita si fa a piedi, il centro storico è
+situato non lontano dall'hotel.
+9.15: Arrivo nel centro storico di Oristano. La visita del sito dura circa un'ora. L'autobus sì
+aspetterà i turisti
+10.30: Il pullman lascia il centro storico in direzione del parco paleontologico Dinosardo
+11.00: Arrivo al parco. I turisti hanno bisogno di circa un'ora e mezza per apprezzare il
+ricchezze storiche del luogo.
+12.30: Arrivo a CAO Formaggi dove i turisti possono degustare e/o acquistare vari formaggi
+sardi.
+13.30: Partenza dalla cooperativa verso Ittiturismo sa Pischera e 'Mar' e Pontis situata a circa
+15 minuti in pullman da Formaggi CAD.
+14.00: Visita dell'allevamento ittico e possibilità di ristorazione per i turisti che lo desiderano
+16.00: Partenza verso la spiaggia di Is Arutas, situata nel Golfo di Oristano.
+17.00: I turisti lasciano la spiaggia per recarsi in pullman alla fattoria didattica situata a Tramatza.
+18.00: Partenza dall'agriturismo verso il sito archeologico di Tharros.
+18.30 / 18.45: Arrivo al sito di Tharros e visita del luogo. Possibilità di rimanere fino alla chiusura
+prevista per le 20.00.
+20.00: Ritorno al Mistral Due.
+20.30 / 21.00: Arrivo in hotel ad Oristano.
+
+--- Attività sportive-----
+
+<h1> Immersioni </h1>
+
+<p> Immersioni subacquee: Le immersioni in siti meravigliosi, vicino alla costa o in mare aperto, vi faranno scoprire il variopinto ambiente sottomarino, ricco di relitti di varie epoche.
+foto di immersione </p>
+
+<h1> Surf / windsurf / kitesurf </h1>
+
+<p> Lo spot di Capo Mannu è stato definito "le Hawaii del Mediterraneo".
+Situato a pochi chilometri dall'Hotel la Baja e dal campeggio Nurapolis, offre la possibilità di praticare questi tre tipi di sport acquatici per giocare con il vento e le onde.
+foto di surf </p>
+
+<h1> Bici </h1>
+
+<p> Numerosi percorsi e sentieri che si snodano letteralmente sfiorando la costa o tuffandosi nei magnifici paesaggi di montagna.
+Biciclette </p>
+
+<h1> Arrampicata </h1>
+
+<p> La provincia di Oristano è nota agli appassionati di arrampicata per la varietà di tipologie di pareti da praticare.
+Non lontano dall'hotel e dal campeggio, nei pressi degli scavi archeologici di Cornus del VI secolo aC, si trovano diverse vie di arrampicata.
+Ecco cosa scrive Maurizio Oviglia, uno dei massimi esperti di arrampicata in Sardegna, sul sito Planet Mountain: “La regione di Santa Caterina di Pittinuri è già nota per la bellezza delle spiagge, lo è meno. scogliere di basalto, nascoste nelle pieghe dei Monti Ferru.
+Non si tratta, come dicevo, di grandi falesie evidenti, ma di piccole creste nascoste in anfratti, che garantiscono una salita intensa che raramente raggiunge i 20-25 metri.
+Quindi ha senso che gli alpinisti locali associno spesso l'arrampicata su roccia al bouldering.
+Infatti, le due falesie che vi proponiamo hanno ciascuna, oltre alla falesia, la loro area di arrampicata. “Attualmente sono disponibili 49 vie in due settori con una larga maggioranza di punteggi tra 5 e 6.
+immagini di arrampicata </p>
+
+<h1> Golf </h1>
+
+<p> A pochi chilometri dall'hotel e dal campeggio si trova un campo da golf a 18 buche (par 72).
+Il percorso è stato progettato dai rinomati architetti americani Von Hagge, Smelek e Baril, che hanno introdotto le 18 buche nelle dune naturali che caratterizzano la zona, creando uno dei percorsi più spettacolari d'Europa, sia dal punto di vista tecnico che paesaggistico punto di vista.
+foto di golf </p>
+
+<h1> Pesca </h1>
+
+<p> In questa parte della provincia di Oristano è possibile pescare in tutte le sue varianti grazie alla presenza del patrimonio marino e delle cooperative di pescatori.
+Sulla lunga spiaggia di Is Arenas, praticamente la spiaggia del Camping Nurapolis, si pratica il surf casting e la spiaggia organizza spesso gare regionali e nazionali.
+Diverse aziende del settore offrono la possibilità della pesca in mare, un'esperienza entusiasmante.
+A bordo dei pescherecci locali, partecipa alla loro pesca tradizionale e passando per bellissime baie e isolotti, puoi assaggiare piatti locali a base di pesce fresco.
+pesca </p>
+
+<h1> Trekking </h1>
+
+<p> Se ti piacciono le escursioni o il nordic walking, sei nel posto giusto.
+Tra mare e montagna, decine di sentieri e sentieri vi faranno scoprire gli angoli più belli del nostro territorio.
+Sentieri tortuosi lungo il mare verso spiagge e calette altrimenti di difficile accesso.
+Sentieri, solitamente realizzati da animali, portano a quota 1050 metri, dove si possono ammirare paesaggi mozzafiato dopo aver attraversato fitti boschi secolari dove non è raro incontrare pecore bighorn e cinghiali.
+Foto di trekking </p>
+
+<h1> Equitazione </h1>
+
+<p> La provincia di Oristano ha una lunga tradizione di allevamento di cavalli, da qui l'abbondanza di giostre che organizzano passeggiate, fiere dell'allevatore, e soprattutto feste e corse dove i cavalieri possono mostrare il loro orgoglio e coraggio.
+Pedalare lungo gli stagni dove vivono i fenicotteri è un'esperienza unica.
+Foto equestre </p>
+
+<h1> Motocross </h1>
+
+<p> Una pista di motocross si trova a due passi dall'hotel e dal campeggio tra le dune dell'antico deserto di Is Arenas, che fino alla metà degli anni '50 era il più grande deserto di sabbia d'Europa.
+Il percorso è unico, tecnico ed emozionante e il clima è ideale in tutte le stagioni. Anche nella stagione delle piogge il fondo sabbioso garantisce un ottimo drenaggio.
+Molte squadre, nazionali e internazionali, frequentano questa pista che trovano eccezionale </p>
+
+--- Eventi ---
+
+SANTU ANTONI DE SU FOGU / SANT'ANTONIO L'ABBE
+Questa festa si celebra dal 16 al 17 gennaio. È di origine precristiana e comprende
+tutte le funzioni religiose nonché l'accensione e la benedizione del falò.
+È acceso in tutto
+comuni della provincia, con
+caratteristiche diverse in
+dipende da dove si trova
+scendi. Può essere alto o
+piccolo e bruciamo enorme
+mucchio di tronchi d'albero interi
+trasportato da cavi su
+posizionarlo e dargli fuoco.
+In molte città, questo
+coincide con l'apertura del
+carnevale. Durante questo
+occasione in cui si preparano "sa panischedda" o "su pani de saba". Questi sono dolci
+prodotti tipici a base di "sapa" (sciroppo d'uva dolce).
+
+
+
+CARRASEGARE / CARNEVALE
+Il carnevale in provincia di Oristano è molto vario. In effetti, le tradizioni sono sopravvissute e noi
+spesso troviamo, in questi carnevali, tradizioni antichissime come i giochi
+equestri, danze tradizionali e maschere ancestrali. Certo, possiamo trovare
+piatti culinari e dessert esclusivi specifici per questi eventi.
+Rinomato per la sua particolarità, Su Carrasegare Osincu a Bosa inizia il giovedì grasso.
+Gli spettatori partecipano a questo festival dal martedì grasso. Molto presto la mattina, i partecipanti
+(uomini e donne) indossano abiti tradizionali e celebrano il rito di Atitidu
+(lamenti funebri). La sera sono tutti vestiti di bianco. Questo carnevale rappresenta
+allegoria del sesso.
+A Ghilarza, la penultima domenica di Carnevale, la celebrazione di un'antica usanza
+ricompare ogni anno. Residenti che indossano maschere di lentzolu (maschere
+realizzati con lino bianco) e burrones (uomini in tradizionale abito nero e
+volti dipinti con sughero bruciato) ballano per le strade così come nel centro storico
+dalla città. Sas màscheras zoomorfas antigas (antico rito mascherato) si svolge nelle strade
+da: Neoneli sos Corriolos, a Cuglieri sos Cotzulados, a Ula Tirso sos Urtzos e sos Bardianos, a
+Samugheo sos Mamutzones, a Paulilatino sos Corrajos, a Laconi Su Corongiaiu.
+I giochi equestri rimangono una tradizione preservata che risale a diversi secoli. Il più noto
+è quella di Oristano, Sa Sartiglia, è una tradizione medioevale. In questo giorno a
+incredibile cerimonia guidata da su Cumpinadori (un semidio androgino) che controlla il
+gara organizzata dalla corporazione (Gremi) di contadini e falegnami. La gara si svolge p
+Martedì grasso e ultima domenica di Carnevale. In questa gara, devono recuperare
+stelle appese lungo la strada con le loro spade.
+A Santulussurgiu si celebra la sua Carrela ‘e nanti, una corsa di cavalli, dove i cavalli
+galoppare per le stradine tortuose del paese. A Sedilo, a Paulalitino e in diversi
+in altri comuni della provincia si tiene la tradizionale cursa a sa pudda, dove i cavalieri devono
+raccogliere i pezzi di una gallina di stoffa sul sentiero.
+I balli tradizionali sono molto comuni durante queste feste. Lo caratterizzano
+carnevale sardo. In diverse località della provincia, sono accompagnati dal suono di a
+organo, fisarmonica o le voci degli uomini di cuntratos e cucorddos. A Seneghe, il
+la gente balla la sua partza de sos ballos che si svolge ogni domenica e inizia il
+Domenica a San Sebastian. Martedì grasso, su Martis de coa, è il giorno di sas andantzas.
+
+Al mattino, i ballerini vestiti con i costumi tradizionali ballano nella piazza del paese secondo
+una particolare coreografia che ricorda una stella. In quei giorni, ad Aidomaggiore, il
+si balla la cointrotza. Una lunga fila di ballerini disegna cerchi e spirali al seguito
+Figura 2 Sa Sartiglia Figura 1 Carrasegare Osincu
+
+
+il ritmo della musica suonata dalla fisarmonica diatonica5, il triangolo e su tumbarinu
+(tamburo locale e tradizionale). A Marrubiu si svolge su Marrulleri, famosa sfilata di
+gruppi di persone mascherate.
+
+CHIDA SANTA / SETTIMANA SANTA
+In provincia di Oristano i riti della Settimana Santa rappresentano un momento di
+religiosità profonda. Le cerimonie si svolgono in tutte le regioni. Questi ultimi anni
+il turismo religioso si è sviluppato sempre di più lì. I più sorprendenti sono i riti
+praticata a Cuglieri, Santulussurgiu e Scano di Montiferro. Nella maggior parte della provincia,
+la domenica di Pasqua si svolge la processione della palma artisticamente intrecciata.
+Le confraternite sono le protagoniste dei riti liturgici e paraliturgici tra i quali noi
+trova, s Iscravamentu, il deposito di Cristo
+morte in croce, e Incontru, l'incontro
+con la risurrezione del figlio della Vergine Maria.
+Questi eventi sono accompagnati da
+il repertorio tradizionale dei canti sacri
+Sardo e latino, a quattro voci
+maschio di su cuncordu o cuntzertu.
+
+5 Fisarmonica diatonica: fisarmonica con lame diverse per produrre un suono diverso (se in
+spingendo e tirando il mantice), diverso da una fisarmonica cromatica.
+Figura 3 Sos Mamutzones
+
+
+
+ARDIA DE SEDILO / ARDIA DE SEDILO
+A luglio si tiene a una delle feste più belle e famose della Sardegna chiamata Ardia
+Sedilo. Per secoli, centinaia di corridori hanno preso parte a una gara. La sera di
+Il 6 luglio e la mattina del 7 luglio, in onore di San Costantino, cavalieri vestiti di
+l'abito dell'imperatore o del cavaliere riproduce la battaglia tra Costantino e Massenzio,
+la battaglia di Ponte Milvio (312 dC). La corsa è guidata da un leader, la sua prima pandela,
+seguiti da altri due cavalieri, segunda e tertza pandela e da guardie, che
+rappresentano Costantino e il suo esercito e l'altro Massenzio e il suo esercito.
+
+REGATA DE IS FASSONIS / REGATA DE IS FASSONIS
+Una domenica d'estate, ogni anno, nella piscina Santa Giusta, situata nel Golf
+di Oristano si svolge la regata di Is Fassonis, antica imbarcazione palustre realizzata con
+fusti di canne e fili d'erba. Molto simile alla balsa peruviana, il barcaiolo degli Is Fassoni,
+chi deve restare in piedi, fa avanzare la sua barca con un lungo remo.
+
+SANTA MARIA DE MARE / SANTA MARIA DEL MARE
+A Bosa, la prima domenica di agosto, si festeggia Santa Maria del Mare. barche di
+la pesca addobbata a festa lungo il fiume Temo (unico fiume navigabile della Sardegna),
+uno di loro porta la statua della Vergine dalla chiesa del villaggio costiero di Santa Maria di
+il mare alla Cattedrale dell'Immacolata. Sempre ad agosto, a Marceddi,
+villaggio di pescatori situato lungo la costa del comune di Terralba, si svolge una processione
+il mare con barche sbandierate, che lanciano fiori. Uno di loro rappresenta
+un relitto in ricordo di coloro che morirono in mare.
+
+
+
+SARTIGLIEDDA
+A Torregrande, nel giorno dell'assunzione, si tiene i borghi costieri della provincia di Oristano
+in estate la Sartigliedda che riprende tutte le fasi di Sa Sartiglia: abbigliamento per
+Cumponidoreddu, la corsa delle stelle e le acrobazie equestri. I protagonisti sono
+figli.
+
+SANTU INNATZIU DE LACONI / SANTU INNATZIU DE LACONI
+A Laconi si festeggia Fra' Innàtzu (1701-1781), patrono della provincia di Oristano.
+La processione si svolge il 31 agosto e vi partecipano migliaia di pellegrini. Diversi gruppi
+qui si incontrano folklore e confraternite provenienti da diverse parti dell'isola. Puoi visitare il museo di
+Menhir e Aymerich Park, dove avrai l'opportunità di ammirare i resti di a
+
+
+castello medievale. Il parco è un'oasi di verde di 22 ettari, comprendente
+magnifiche specie vegetali e cascate.
+
+IS ISCURTZOS DE SANTU SARBADORI / I CORRIDORI A PIEDI NUDI DI SAINT
+SALVATORE
+Nei borghi rurali di Cabras e San Salvatore, il primo sabato di settembre, la
+corsa a piedi nudi, un rito che si ripete ogni anno da 5 secoli, che ricorda l'invasione
+dei Sarazini. Centinaia di uomini in tutto il paese, in abiti, corrono a piedi nudi indossando
+la statua del Salvatore di Cabras alla chiesa campestre. A turno, due corridori indossano il
+berlina con la statua del Santo, lungo un sentiero di polvere. Nessuno può sorpassare.
+Ogni cento metri, quelli che trasportano la statua cambiano posto con altri.
+Domenica torna la statua
+a Cabras allo stesso modo.
+Il primo giorno della novena,
+donne vestite
+tradizionalemente e piedi nudi,
+fai lo stesso ma
+portare una piccola statua di
+Santo che lascia la campagna
+a San Salvatore e
+poi ritorno a Cabras.
+
+
+NOSTRA SENNORA DE SU RIMEDIU / MADONNA DEL RIMEDIO
+L'otto settembre si celebra a Donigala Fenughedu, Nostra Signora del Rimedio, festa
+soprattutto per i comuni della provincia e dell'isola di Sardegna. Numero di
+fedeli che si recano al Santuario per partecipare a tutte le messe liturgiche. Dopo il
+celebrazioni religiose, molti pellegrini sostano nel cortile della chiesa in
+specifico dove possono mangiare maialino arrosto, muggine e anguille, mostaccioli e
+torrone e può bere vino Vernaccia.
+NOSTRA SENNORA DE BONACATU / NOTRE DAME DE BONACATU
+Il diciottesimo e diciannove settembre a Bonarcado si celebra la festa della Madonna di
+Bonacatu. Il tempio della Madonna di Bonacatu è uno dei più antichi dell'isola, risalente al
+VI secolo d.C. La chiesa romanica attigua a questo tempio risale al XIII secolo.
+secolo e fu edificato dai Camaldolesi. I registri di questo tempio sono stati redatti in
+sardo e rappresentano la principale fonte di storia medievale della provincia di Oristano.
+Nel pomeriggio del 18, numerosi fedeli e congregazioni partecipano alla
+processione cantando il Rosario in sardo.
+SAS FESTAS IN SOS NOVENARIOS / FESTE RURALI
+Da aprile/maggio fino ad ottobre in tutta la Sardegna, in diverse chiese di
+campagna, si tengono feste. Quasi tutti durano tra i nove ei dieci giorni. Tutti i
+i partecipanti si trasferiscono in una casa per partecipare alle funzioni religiose, spesso in lingua
+sardo, e perpetuando antichi riti. In questi giorni piccoli borghi prendono vita grazie a
+animazione e spettacoli di vario genere, pranzi comunitari o
+cene e cumbidos, dolci e bevande offerti ai partecipanti. La novena di Saint
+Seraphim chiude il lungo calendario dei festeggiamenti della campagna in provincia. A partire dal
+Giovedì prima della terza domenica fino al mattino dell'ultima domenica di ottobre, alle
+Ghilarza, nei pressi del Lago Omodeo, si festeggia l'Arcangelo Raffaele. La chiesa medievale è
+popolare. Vi si può ammirare un bassorilievo dello stemma dell'albero sradicato di Arborea, che è
+divenne il simbolo della Provincia di Oristano.
+
+---Arti e mestieri----
+
+<h1> Ticino / Tessitura </h1>
+
+<p> A Mogoro e Samugheo è possibile visitare numerosi laboratori di tessitura e acquistare tappeti, tovaglie, tende, coperte, lenzuola, bisacce e molto altro.
+I due centri investono molto nel settore e organizzano ogni anno, tra luglio e agosto, il primo, la fiera del tappeto, il secondo, la mostra dell'artigianato sardo - Ticino.
+Con la tecnica 'a pibiones' (a grana oa riccio) e la tessitura piana con trama a vista, si realizzano opere che conservano sia decori e motivi tradizionali sia colori e fantasie moderne.
+A Samugheo è possibile visitare il Museo Regionale dell'Artigianato Tessitore Sardo (MURATS)
+Tappeto sardo </p>
+
+<h1> Tzeràmica / Ceramica </h1>
+
+<p> Un tempo famosa per la produzione di vasi in ceramica, brocche, piatti e altre pentole, Oristano, con le produzioni artistiche dei suoi ceramisti, continua ad essere una "città della ceramica".
+Oggi gli artigiani trasformano i modelli tradizionali in opere d'arte di grande valore e inventano nuovi oggetti adattati alle esigenze moderne.
+ceramica </p>
+
+<h1> Gurteddu / Coltelli </h1>
+
+<p>L'artigianato sardo ha un'importante tradizione legata alla lavorazione dei coltelli, in particolare le resorzas, molto apprezzate dai turisti e il cui uso è ancora diffuso in Sardegna.
+Grazie alla manualità e al saper fare degli artigiani di Santu Lussurgiu, metalli e corna si trasformano in coltelli di eccezionale bellezza, oggetti eleganti forgiati nei modelli tipici di Santu Lussurgiu.</p>
+
+<h1> Istèrgios de fenu e a intrizu / Baskets </h1>
+
+<p> Questa attività artigianale, prevalentemente a livello familiare, è caratterizzata da diverse tipologie in diverse parti della provincia.
+Oltre ai prodotti ancora utilizzati quotidianamente a casa e al lavoro, che riproducono motivi e decorazioni tradizionali, l'arte dell'intreccio di cesti ha permesso negli ultimi anni anche di produrre un esempio artistico contemporaneo.
+Con l'intreccio di canne, salici, mirto e lentisco si producono cesti di varie dimensioni, utilizzati principalmente per il trasporto di frutta e verdura.
+A Flussio e nei paesi limitrofi del nord della provincia, gli steli di asfodelo vengono utilizzati per realizzare cesti e altri oggetti.
+Nelle giornate primaverili ed estive, l'esposizione dei lavori davanti alle case degli artigiani trasforma le strade di questi paesi in attraenti mercatini.
+A San Vero Milis, intrecciando erbe palustri, si ottengono lavori artistici caratterizzati dalla presenza del rosso o del nero.</p>
+
+--- Cibo ---
+
+Durches / Dessert
+
+Durante l'anno viene preparata una lunga lista di dolci secondo antiche ricette, che accompagnano feste private e tradizionali: la sua panischedda à la Sant'Antonio, sas pardulas per la Pasqua; sos pabassinos per la festa dei morti; oltre a vari dolci fritti di carnevale, tra i quali sas tzipulas sono i più conosciuti e apprezzati.
+Miele, noci, sapa, ricotta, uova, farina (tutti prodotti locali) sono gli ingredienti principali della loro preparazione.
+Un posto enorme è dato alle mandorle dolci; marigosos, candelaos, guefos, turronetos, germinos e altri.
+Particolarmente legato ad occasioni importanti come battesimi, comunioni o anche un matrimonio.
+Sas Pardulas
+Sas Tzipulas
+Casu / formaggio
+
+In un territorio legato (economicamente e culturalmente) all'agricoltura, soprattutto nell'allevamento di ovini e bovini, il formaggio è una delle produzioni più importanti.
+Tra i più famosi il Fiore Sardo DOP e il Pecorino Sardo DOP, ovvero un formaggio più aromatico e salato; ricotta, utilizzata nella preparazione di piatti come culurgiones, ravioli, o anche dolci.
+Casigiolu dalla caratteristica forma a pera prodotto con latte di vacche sarde modicane e bruno sardo, formaggio che può essere consumato fresco o stagionato.
+Un presidio slow food tutela la produzione del Casizolu de Montiferru.
+Casigiolu
+Pane / Pane
+
+In Sardegna il pane non è solo importante per l'uso quotidiano ma continua a prendere forma e significato durante riti o feste di antica cultura, in molti paesi non è banale sentire il profumo del pane cotto al forno, il pane varia a seconda delle stagioni o il consumo di settimane ordinarie o straordinarie delle festività.
+Il pane diventa un'opera d'arte, impressionante per bellezza durante le grandi feste liturgiche e patronali del Santo, viene confezionato con una moltitudine di varianti, diversi tipi di pane durante le cerimonie tra cui spiccano su cocoi de pramma, preparato per la domenica delle Palme: un pezzo di grossi fili di pasta decorati con fiori di pane o mandorle, e su cocoi de angulla e su cocoi cun s'ou, preparati per la Pasqua, di diverse forme, la più usata è la colomba con l'uovo e il suo guscio.
+Su Coccoi
+
+
+
+Malvasia
+
+La provincia di Oristano ha una lunga tradizione nella produzione di vini robusti e di alta qualità con una gradazione alcolica relativamente elevata.
+Uno dei più famosi e apprezzati è la Malvasia de Bosa, vino bianco, prodotto nei comuni di Bosa, Flussio, Magomadas, Modolo, Tinnura, Tresnuraghes e Suni.
+Questo vino ha un profumo intenso e un sapore delicato, asciutto con retrogusto amarognolo.
+La Malvasia invecchiata in botti in cui viene aggiunto il lievito "flor", si abbina bene a dolci a base di mandorle, vini giovani, fino ai tre anni può essere consumata come aperitivo.
+Granatza / Vernaccia
+
+La Vernaccia d'Oristano è un vino giallo ambrato al gusto di mandorla, che raggiunge una gradazione alcolica tra i quindici ei sedici gradi e può essere bevuto fresco come aperitivo o per accompagnare un piatto a base di pesce, oppure una scamorza o una spezia.
+Ottenuto da un processo naturale di ossidazione per opera di un particolare lievito, e con un affinamento di tre o quattro anni in rovere o castagno non completamente riempito, possiamo ottenere questo prodotto unico e distintivo.
+È ottimo come vino da dessert, soprattutto con i dolci di mandorle tipici della Sardegna.
+I vigneti di Vernaccia si trovano a Baratili San Pietro, Cabras, Milis, San Vero Milis, Narbolia, Nurachi, Ollastra, Oristano, Palmas Arborea, Riola Sardo, Santa Giusta, Siamaggiore, Simaxis, Solarussa, Tramatza, Zeddiani, Zerfaliu.
+Binu / Vino
+
+La produzione vinicola è di grande importanza per il territorio della provincia.
+Tra questi un posto importante è occupato dai vini A.O.C. di Arborea: Trebbiano e Sangiovese; Bovale Sardo in Campidano de Terralba; Cannonau, presente in tutta la regione, ed in particolare Semidano e Monica, vitigni presenti in particolare nel territorio di Mogoro e Marmilla.
+I vini D.O.C della provincia sono anche Malvasia di Bosa, Mandrolisai, Monica di Sardegna, Semidano e Vernaccia di Oristano.
+I vini IGT sono: Nuraghe Island, Marmilla, Planargia, Tharros.
+
+
+Pasta / Pasta
+
+Con la semola di grano duro si preparano diversi tipi di pasta, tra cui i malloredos, palline, tipiche di tutta la Sardegna, spesso aromatizzate allo zafferano, e le lorighitas, intrecciate due fili di pasta chiusa a formare dei piccoli anelli di forma allungata, tipici del paesino di Morgongiori.
+Nelle ricette più tradizionali, malloredos e lorighitas, vengono conditi con sugo di pomodoro con carne o salsiccia e pecorino grattugiato.
+Fregula, simile al couscous ma più grande, si prepara bagnando la farina di semola con poca acqua, e impastandola con un movimento circolare delle mani sul fondo di una bacinella di argilla.
+Con le piccole sfere si ottengono minestre e piatti simili a risotti, conditi in vari modi, soprattutto con le vongole veraci.
+I culurgiones sono ravioli ripieni di formaggio fresco o ricotta e bietole o patate, conditi con salsa di pomodoro e carne e tanto pecorino grattugiato.
+Culurgiones
+Fregula
+Pische / Pesci
+
+Sofisticate ricette sono preparate con pesce di mare e delle lagune della provincia di Oristano; branzino con vernaccia, astice, burrida; e arrosti vengono preparati che danno un sapore e un profumo alle diverse feste dei paesi: non è banale in queste occasioni, poter acquistare e gustare anguille e muggini allo spiedo, arrostiti per le strade e nei luoghi durante celebrazioni.
+Tra i prodotti legati al pesce i migliori sono la bottarga, il muggine in salamoia, pressato ed essiccato dai pescatori di Cabras.
+È buono da mangiare affettato, guarnito con un filo di olio extra vergine di oliva, oppure abbinato a verdure varie come carciofi e sedano.
+Grattugiato, condisce piatti saporiti come spaghetti, rucola con carciofi e altri.
+Petza / Carne
+
+Il maialino da latte arrosto è il piatto festivo più famoso e popolare dell'isola. Il modo più tradizionale di cucinarlo è arrostirlo allo spiedo, può anche essere cotto o grigliato a legna, è accompagnato da foglie di mirtillo che gli conferiscono un sapore diverso.
+Possiamo trovare anche l'agnello, che può essere arrostito, allo spiedo o al forno, oppure in umido con carciofi o patate.
+Tra i piatti più caratteristici troviamo; teste arrostite, visceri cucinati da diverse ricette e la sua corda (ottenuta intrecciando gli intestini), cosce al sugo.
+Nel nord della provincia due razze di bovini sono ruspanti; il Sardo Modicana, meglio conosciuto come Bue Rosso (carne rossa, caratterizzato dal suo colore), e il Sardo Bruna, detto Melina, per il colore del suo pelo color miele.
+La prima razza è un allevamento del Montiferru che diventa Presidio Slow Food (prodotto tutelato).
+Il secondo vive nell'Altopiano di Abbasanta.
+Possono essere cucinati in diversi modi come, arrostiti, bolliti, trasformati in polpette (sas bombas), o spezzatino (in cassola o ghisadu).
+
+--- Prodotti locali----
+
+arti e mestieri
+Cibo 
+
+
+
+
+

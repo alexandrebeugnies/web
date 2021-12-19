@@ -47,6 +47,8 @@ const Barbagia = () => {
         If you miss hearing a live performance, you can listen to historic
         renditions at the Museo multimediale del Canto a Tenores in Bitti.
       </p>
+      <button className="btntrip">See The Trip</button>
+      <button className="btnbuy">Buy</button>
     </div>
   );
 };

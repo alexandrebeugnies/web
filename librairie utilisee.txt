@@ -1,0 +1,2 @@
+i18next react-i18next i18next-http-backend i18next-browser-languagedetector, react slideshow, react-router-dom
+styled-components

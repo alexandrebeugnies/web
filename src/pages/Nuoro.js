@@ -46,6 +46,8 @@ const Nuoro = () => {
         unusual shapes hover interspersed between valleys, the home of a variety
         of mammals and rare birds of prey.
       </p>
+      <button className="btntrip">See The Trip</button>
+      <button className="btnbuy">Buy</button>
     </div>
   );
 };

@@ -11,3 +11,23 @@
     width: 1000px;
     
 }
+.btntrip{
+    font-size: 1.3rem;
+    background:#504e4e;
+    margin-top: 15px;
+    color: #cec950;
+    border: none;
+    cursor: pointer;
+    transition: .2s;
+    width: 100%;
+}
+.btnbuy{
+    font-size: 1.3rem;
+    background: #504e4e;
+    margin-top: 15px;
+    color: #cec950;
+    border: none;
+    cursor: pointer;
+    transition: .2s;
+    width: 100%;
+}

@@ -47,6 +47,8 @@ const Oristano = () => {
         horses harnessed with coloured tassels and satins racing in exciting
         acrobatics and jousts.
       </p>
+      <button className="btntrip">See The Trip</button>
+      <button className="btnbuy">Buy</button>
     </div>
   );
 };
