@@ -1,6 +1,7 @@
 import React,{useState ,useEffect} from 'react'
 import  Axios  from 'axios';
 
+
 const Signin = () => {
     const [response,setResponse] = useState("")
     const [username, setUsername] = useState("");
@@ -11,17 +12,20 @@ const Signin = () => {
     Axios.defaults.withCredentials = true;
 
     const signin = () => {
+        
         Axios.post("http://localhost:8080/signin",
           {
             username: username,
             password: password,
           }).then((response) => {
+              
             if (!response.data.auth) {
                 setLoginStatus(false);
             }else{
-               
-                localStorage.setItem("token", response.data.token) // le token est compose du backend et du mot bearer , voila comment verifier dans le back-end "Bearer " + token
+                
                 setLoginStatus(true);
+                localStorage.setItem("token", response.data.token) // le token est compose du backend et du mot bearer , voila comment verifier dans le back-end "Bearer " + token
+                
             }
           });
       };
@@ -78,9 +82,13 @@ const Signin = () => {
 
 
         <button type="submit" onClick={signin}>Connection</button>
+        
         </form>
 
         <div>
+        {loginStatus && (
+                <button onClick ={userAuthenticated}>Check if Authenticated</button>
+            )}
             {
                 allEntry.map((curElem)=>{
                     const {id, username, password} = curElem;
@@ -96,12 +104,11 @@ const Signin = () => {
                     )
                 })
             }
-            {loginStatus && (
-                <button onClick ={userAuthenticated}>Check if Authenticated</button>
-            )}
+            
         </div>
     </>
     )
+   
 }
 
 export default Signin

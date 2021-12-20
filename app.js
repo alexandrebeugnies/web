@@ -15,6 +15,7 @@ dotenv.config({ path: "./.env" });
 const jwt = require('jsonwebtoken');
 
 
+
 //Créer la connection
 const db = mysql.createConnection({
   host: process.env.DATABASE_HOST,
@@ -33,7 +34,8 @@ db.connect((err) => {
 });
 
 const app = express();
-
+app.use(express.json());
+app.use(express.urlencoded());
 
 app.use(cors({
   origin:["http://localhost:3000"],
@@ -215,7 +217,7 @@ app.post("/signup", (req, res) => {
     const tel= req.body.tel;
     const password= req.body.password;
 
-    bcrypt.hash(password,saltRounds, (err, hash)=>{
+    bcrypt.hash(password,10, (err, hash)=>{
       if (err) {
         console.log(err);
       }
@@ -229,7 +231,7 @@ app.post("/signup", (req, res) => {
         address,
         email,
         tel,
-        hash,
+        password,
       ],
       (err, result) => {
         console.log(err);
@@ -268,34 +270,39 @@ app.get("/signin",(req,res)=>{
 });
 
 app.post("/signin",(req,res)=>{
+  console.log(req.body);
     const username= req.body.username;
     const password= req.body.password;
     (db.query =
     "SELECT * FROM  users WHERE username = ?;"),
-     [username,hash],
+    username,
     (err,result)=>{
       if (err) {
           res.send({err: err});
       }
+      if (result.length > 0) {
+        bcrypt.compare(password,result[0].password,(error,response)=>{
+          console.log(response);
+          if (response) {
+            const id = result[0].id
+            const token = jwt.sign({id}, "jwtSecret", {
+              expiresIn: 300, //correspond a 5 minutes
+             })
+             req.session.user = result;
+  
+             res.json({auth: true, token: token, result: result});
+           } else{
+             res.json({auth: false, message:"Wrong username or password combination"});
+           }
+         });
+       }else{
+         res.json({auth: false, message:"User doesn't exist"});
+       }
+       
     }
-   
-        if (result.length > 0) {
-           bcrypt.compare(password,result[0].password,(error,response)=>{
-             if (response) {
-               const id = result[0].id
-               const token = jwt.sign({id}, "jwtSecret", {
-                 expiresIn: 300, //correspond a 5 minutes
-                })
-                req.session.user = result;
 
-                res.json({auth: true, token: token, result: result});
-              } else{
-                res.json({auth: false, message:"Wrong username or password combination"});
-              }
-            });
-          }else{
-            res.json({auth: false, message:"User doesn't exist"});
-          }
+
+    
 })
 
 app.listen("8080", () => {

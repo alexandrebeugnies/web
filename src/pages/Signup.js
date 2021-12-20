@@ -2,34 +2,7 @@ import  Axios  from "axios";
 import React, { useState,useEffect } from "react";
 
 const Signup = () => {
-  const signup = () => {
-    Axios.post("http://localhost:8080/signup",
-      {
-        username: userRegistration.username,
-        name: userRegistration.name,
-        firstname: userRegistration.firstname,
-        gender: userRegistration.gender,
-        birthdate: userRegistration.birthdate,
-        address: userRegistration.address,
-        email: userRegistration.email,
-        tel: userRegistration.tel,
-        password: userRegistration.password,
-      }).then((res) => {
-        console.log(res);
-      });
-  };
-  /*useEffect(()=>{
-        fetch("http://localhost:8080/signup")
-        .then(
-            (r)=>{
-               r.json().then(
-                   data=>console.log(data)
-               )
-            }
-        )
-
-    },[])*/
-
+  
   const [userRegistration, setUserRegistration] = useState({
     username: "",
     name: "",
@@ -73,6 +46,38 @@ const Signup = () => {
       password: "",
     });
   };
+
+
+  const signup = () => {
+    
+    Axios.post("http://localhost:8080/signup",
+      {
+        username: userRegistration.username,
+        name: userRegistration.name,
+        firstname: userRegistration.firstname,
+        gender: userRegistration.gender,
+        birthdate: userRegistration.birthdate,
+        address: userRegistration.address,
+        email: userRegistration.email,
+        tel: userRegistration.tel,
+        password: userRegistration.password,
+      }).then((res) => {
+        console.log(res);
+      });
+  };
+  /*useEffect(()=>{
+        fetch("http://localhost:8080/signup")
+        .then(
+            (r)=>{
+               r.json().then(
+                   data=>console.log(data)
+               )
+            }
+        )
+
+    },[])*/
+
+  
   return (
     <>
       <form action="" onSubmit={handleSubmit}>
