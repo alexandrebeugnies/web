@@ -22,8 +22,8 @@ const Food = () => {
 Honey, nuts, sapa, cottage cheese, eggs, flour (all local products) are the main ingredients in their preparation.
 A huge place is given to sweet almonds; marigosos, candelaos, guefos, turronetos, germinos and others.
 Particularly linked to important occasions such as baptism, communions or even a wedding.</p>
-<h2>Sas Pardulas</h2><img src={pardula} className="pardula" alt="Pardulas"/>
-<h2>Sas Tzipulas</h2><img src={tzipulas} className="tzipula" alt="Tzipulas"/>
+<h2 className="pardu">Sas Pardulas</h2><img src={pardula} className="pardula" alt="Pardulas"/>
+<h2 className="tzipu">Sas Tzipulas</h2><img src={tzipulas} className="tzipula" alt="Tzipulas"/>
 
 <h1 className="cheese">Casu / Cheese</h1>
 

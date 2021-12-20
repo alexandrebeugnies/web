@@ -34,7 +34,7 @@ db.connect((err) => {
 
 const app = express();
 
-app.use = express.json();
+
 app.use(cors({
   origin:["http://localhost:3000"],
   methods:["GET","POST"],
@@ -219,25 +219,24 @@ app.post("/signup", (req, res) => {
       if (err) {
         console.log(err);
       }
-    })
-
-    (db.query =
-    "INSERT INTO users (username, lastname, firstname,gender,birthdate,address,email,tel, password) VALUES (?,?)"),
-    [
-      username,
-      name,
-      firstname,
-      gender,
-      birthdate,
-      address,
-      email,
-      tel,
-      password,
-    ],
-    (err, result) => {
-      console.log(err);
-    };
+      db.query ="INSERT INTO users (username, lastname, firstname,gender,birthdate,address,email,tel, password) VALUES (?,?,?,?,?,?,?,?,?)",
+      [
+        username,
+        name,
+        firstname,
+        gender,
+        birthdate,
+        address,
+        email,
+        tel,
+        hash,
+      ],
+      (err, result) => {
+        console.log(err);
+      };
+  });
 });
+     
 
 const verifyJWT = (req,res,next) =>{
   const token = req.headers["x-access-token"]
@@ -273,7 +272,7 @@ app.post("/signin",(req,res)=>{
     const password= req.body.password;
     (db.query =
     "SELECT * FROM  users WHERE username = ?;"),
-     username,
+     [username,hash],
     (err,result)=>{
       if (err) {
           res.send({err: err});

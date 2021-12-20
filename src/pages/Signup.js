@@ -40,6 +40,7 @@ const Signup = () => {
     email: "",
     tel: "",
     password: "",
+    confpassword:"",
   });
 
   const [records, setRecords] = useState([]);
@@ -179,10 +180,10 @@ const Signup = () => {
             type="password"
             autoComplete="off"
             placeholder="Confirm Password"
-            value={userRegistration.password}
+            value={userRegistration.confpassword}
             onChange={handleInput}
-            name="password"
-            id="password"
+            name="confpassword"
+            id="confpassword"
           />
         </div>
         <button onClick={signup} type="submit">Registration</button>

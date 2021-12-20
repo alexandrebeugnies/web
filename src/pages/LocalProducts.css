@@ -61,49 +61,52 @@
     position: relative;
     max-width: 400px;
     max-height: 300px;
-    margin-top: -300px;
+    margin-top: -150px;
     margin-bottom: 150px;
-    margin-left: 150px;
+    margin-left: 30px;
 }
 .ceramic2{
-    position: relative;
+    position: absolute;
     max-width: 500px;
     max-height: 300px;
-    margin-left: 600px;
-    margin-right: 100px;
+    margin-top: -170px;
+    margin-left: 630px;
+
 }
 .knif1{
-    position: relative;
-    max-width: 500px;
+    position: absolute;
+    max-width: 400px;
     max-height: 300px;
-    margin-bottom: 40px;
-    margin-top: -250px;
+  margin-top: -120px; 
 }
 .knif2{
     position: relative;
     max-width: 500px;
     max-height: 200px;
-    margin-left: 700px;
-    margin-top: -130px;
+    margin-left: 1100px;
+    margin-top: -150px;
+    
 }
 .panier{
-    position: relative;
-   max-width: 500px;
-   max-height: 400px;
-   margin-top: -300px;
+   position: absolute;
+   max-width: 350px;
+   max-height: 500px;
+   margin-top: -270px;
+   margin-left: 50px;
 }
-.tzipula{
-    position: relative;
-   max-width: 500px;
-   max-height: 400px;
-   margin-left: 650px;
 
-}
-.pardula{
-    position: relative;
+.tzipula{
+   position: relative;
    max-width: 500px;
    max-height: 400px;
    margin-left: 600px;
+
+}
+.pardula{
+   position: relative;
+   max-width: 500px;
+   max-height: 400px;
+   margin-left: 500px;
   
 }
 .desserts{
@@ -134,7 +137,7 @@
     position: relative;
    max-width: 500px;
    max-height: 400px;
-   margin-left: 550px;
+   margin-left: 500px;
 }
 .bread{
     text-align: center;
@@ -151,7 +154,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 650px;
+    margin-left: 600px;
 }
 .malvasia{
     text-align: center;
@@ -169,7 +172,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 650px;
+    margin-left: 600px;
 }
 .vernaccia{
     text-align: center;
@@ -187,7 +190,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 700px;
+    margin-left: 620px;
 }
 .wine{
     text-align: center;
@@ -205,7 +208,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 560px;
 }
 .pate{
     text-align: center;
@@ -223,13 +226,13 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 700px;
+    margin-left: 650px;
 }
 .fregula{
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 550px;
+    margin-left: 500px;
 }
 .fish{
     text-align: center;
@@ -247,7 +250,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 520px;
 }
 .meat{
     text-align: center;
@@ -265,5 +268,5 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }

@@ -14,7 +14,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 25px;
+    margin-left: 20px;
 }
 .surf{
     text-align: center;
@@ -33,7 +33,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .bike{
     text-align: center;
@@ -52,7 +52,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .climbing{
     text-align: center;
@@ -71,7 +71,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .golf{
     text-align: center;
@@ -90,7 +90,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .fishing{
     text-align: center;
@@ -109,7 +109,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .trekking{
     text-align: center;
@@ -128,7 +128,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .horse{
     text-align: center;
@@ -147,7 +147,7 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
 .motocross{
     text-align: center;
@@ -166,5 +166,5 @@
     position: relative;
     max-width: 500px;
     max-height: 400px;
-    margin-left: 600px;
+    margin-left: 500px;
 }
